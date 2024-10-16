@@ -1,0 +1,7 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:45:6:watchdog_init	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:62:6:watchdog_start	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:78:6:watchdog_stop	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:94:6:watchdog_refresh	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:115:6:watchdog_irq_init	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:132:9:watchdog_aon_reboot_check	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/wdt_api.c:144:6:watchdog_aon_clear	8	static

@@ -1,0 +1,5 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c:192:5:boot_get_remap_table_index	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c:215:5:boot_get_fcs_remap_block	40	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c:236:5:boot_read_flash_data	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c:280:5:user_disable_fcs	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c:285:6:user_boot_config_init	2104	static

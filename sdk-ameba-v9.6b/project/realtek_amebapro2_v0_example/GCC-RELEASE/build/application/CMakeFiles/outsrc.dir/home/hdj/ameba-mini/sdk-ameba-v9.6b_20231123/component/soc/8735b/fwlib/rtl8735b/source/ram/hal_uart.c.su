@@ -1,0 +1,13 @@
+/home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/include/hal_gpio.h:734:31:hal_gpio_pull_ctrl.isra	8	static
+/home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/include/hal_gdma.h:365:30:hal_gdma_chnl_init.isra	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:56:9:hal_uart_check_uart_id	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:118:14:hal_uart_init	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:207:6:hal_uart_deinit	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:254:14:hal_uart_set_flow_control	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:313:14:hal_uart_tx_gdma_init	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:350:14:hal_uart_tx_gdma_deinit	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:366:14:hal_uart_rx_gdma_init	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:403:14:hal_uart_rx_gdma_deinit	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:422:14:hal_uart_dma_recv	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:479:14:hal_uart_dma_send	40	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_uart.c:546:14:hal_uart_lp_sclk_select	8	static

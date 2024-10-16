@@ -1,0 +1,13 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:144:6:osd_render_task	128	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:26:5:canvas_send_msg	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:49:5:canvas_create_bitmap	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:60:5:canvas_update	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:70:5:canvas_set_point	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:83:5:canvas_set_line	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:98:5:canvas_set_rect	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:113:5:canvas_set_text	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:126:6:osd_render_task_stop	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:342:6:osd_render_task_start	64	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:418:6:osd_render_dev_init	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:432:6:osd_render_dev_deinit	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/osd2/osd_render.c:439:6:osd_render_dev_deinit_all	8	static

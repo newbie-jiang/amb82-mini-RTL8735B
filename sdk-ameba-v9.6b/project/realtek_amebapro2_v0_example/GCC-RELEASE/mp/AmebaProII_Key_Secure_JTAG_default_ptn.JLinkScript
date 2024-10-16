@@ -1,0 +1,173 @@
+/*********************************************************************
+*
+*       ResetTarget
+*/
+void ResetTarget(void) {
+  int v;
+  int read_first; // WD
+  int Speed;
+  int Ctrl;
+  Report("******************************************************");
+  Report("J-Link script: ResetTarget()");
+  Report("******************************************************");
+  Speed = JTAG_Speed;
+  JTAG_Speed = 100;
+  JTAG_WriteClocks(1);
+
+  //
+  // Select CTRL_AP(APB-AP, AP2) and set authentication interface
+  //
+  
+  JLINK_CORESIGHT_WriteDP(2, (2 << 24) | (0 << 4));  // Select AP[2], bank 0
+  Ctrl = 0x23800052; // AP2.CSW
+  JLINK_CORESIGHT_WriteAP(0, Ctrl);
+  
+  // Perform some other init steps which are required to get full control of the debug logic
+  //
+
+  // Now, in CTRL_AP(which is an APB-AP, AP2 for AmebaProII)
+  // AP register index 1 is the TAR register which is used to assign target address
+  // AP register index 3 is the DRW register which is used to read(write) data from(to) the address in TAR
+  // Ex: write ADDR with WDATA
+  //     step 1. JLINK_CORESIGHT_WriteAP(1, ADDR)
+  //     step 2. JLINK_CORESIGHT_WriteAP(3, WDATA)
+  // Ex: read ADDR
+  //     step 1. JLINK_CORESIGHT_WriteAP(1, ADDR)
+  //     step 2. JLINK_CORESIGHT_ReadAP(3)
+  //     step 3. might additional read RDBUFF for JTAG connection
+
+  /*!!!!!!!important notice: for non-fixed key in vendor, you must take care of the endianness.
+  The key sequence of the image in Amebapro.json file is:
+  
+  address 0x0 0x1 0x2 0x3 0x4 0x5 0x6 0x7 0x8 0x9 0xa 0xb 0xc 0xd 0xe 0xf
+  value   aa  01  02  03  04  05  06  07  08  09  0a  0b  0c  0d  0e  0f 
+  
+  The order of the key sequence should be reversed as seen below, this is default secure key in .json
+  */
+  
+  // Secure JTAG Unlock
+  JLINK_CORESIGHT_WriteAP(1, 0x4);
+  JLINK_CORESIGHT_WriteAP(3,0x1c1d1e1f);
+  JLINK_CORESIGHT_WriteAP(1, 0x8);
+  JLINK_CORESIGHT_WriteAP(3,0x18191a1b);
+  JLINK_CORESIGHT_WriteAP(1, 0xC);
+  JLINK_CORESIGHT_WriteAP(3,0x14151617);
+  JLINK_CORESIGHT_WriteAP(1, 0x10);
+  JLINK_CORESIGHT_WriteAP(3,0x10111213);
+  JLINK_CORESIGHT_WriteAP(1, 0x14);
+  JLINK_CORESIGHT_WriteAP(3,0x0c0d0e0f);
+  JLINK_CORESIGHT_WriteAP(1, 0x18);
+  JLINK_CORESIGHT_WriteAP(3,0x08090a0b);
+  JLINK_CORESIGHT_WriteAP(1, 0x1C);
+  JLINK_CORESIGHT_WriteAP(3,0x04050607);
+  JLINK_CORESIGHT_WriteAP(1, 0x20);
+  JLINK_CORESIGHT_WriteAP(3,0x00010203);
+  
+  // Non-Secure JTAG Unlock
+  JLINK_CORESIGHT_WriteAP(1, 0x24);
+  JLINK_CORESIGHT_WriteAP(3,0x3c3d3e3f);
+  JLINK_CORESIGHT_WriteAP(1, 0x28);
+  JLINK_CORESIGHT_WriteAP(3,0x38393a3b); 
+  JLINK_CORESIGHT_WriteAP(1, 0x2C);
+  JLINK_CORESIGHT_WriteAP(3,0x34353637); 
+  JLINK_CORESIGHT_WriteAP(1, 0x30);
+  JLINK_CORESIGHT_WriteAP(3,0x30313233);
+  JLINK_CORESIGHT_WriteAP(1, 0x34);
+  JLINK_CORESIGHT_WriteAP(3,0x2c2d2e2f); 
+  JLINK_CORESIGHT_WriteAP(1, 0x38);
+  JLINK_CORESIGHT_WriteAP(3,0x28292a2b); 
+  JLINK_CORESIGHT_WriteAP(1, 0x3C);
+  JLINK_CORESIGHT_WriteAP(3,0x24252627);
+  JLINK_CORESIGHT_WriteAP(1, 0x40); 
+  JLINK_CORESIGHT_WriteAP(3,0x20212223);
+
+  /*
+  for 0x0:
+  bit 0: R/W BIT_SECURE_JTAG_CHECK_EN
+  bit 1: R/W BIT_NON_SECURE_JTAG_CHECK_EN
+  bit 2: R 	 BIT_SECURE_JTAG_EN_STATUS
+  bit 3: R 	 BIT_NON_SECURE_JTAG_EN_STATUS
+  bit [6:4]: R/W BIT_MAX_FAIL_COUNTER
+  */
+  
+  JLINK_CORESIGHT_WriteAP(1, 0x0);
+  JLINK_CORESIGHT_WriteAP(3, 0x3); // 0x1: Unlock Secure JTAG; 0x2: Unlock Non-Secure JTAG; 0x3: Unlock Secure and Non-Secure JTAG
+  
+  // First read attempt of Secure JTAG register 0x0
+  JLINK_CORESIGHT_WriteAP(1, 0x0);
+  v = JLINK_CORESIGHT_ReadAP(3);
+  JLINK_SYS_Report1("1st read SJTAG @ 0x0: ", v);
+  
+  /* while (((v & (3 << 0)) >> 0 )== 0x3) {
+	JLINK_CORESIGHT_WriteAP(1, 0x0);
+	v = JLINK_CORESIGHT_ReadAP(3);
+  } */
+  
+  JLINK_CORESIGHT_WriteAP(1, 0x0);
+  v = JLINK_CORESIGHT_ReadAP(3);
+  JLINK_SYS_Report1("2nd read SJTAG @ 0x0: ", v);
+  
+  JLINK_CORESIGHT_WriteAP(1, 0x0);
+  v = JLINK_CORESIGHT_ReadAP(3);
+  JLINK_SYS_Report1("3rd read SJTAG @ 0x0: ", v);
+  
+  //
+  // Change to AHB-AP to control TM9(AHB-AP, AP1)
+  //
+  //CORESIGHT_AddAP(1, CORESIGHT_AHB_AP);
+  JLINK_CORESIGHT_WriteDP(2, (1 << 24) | (0 << 4));  // Select AP[1], bank 0
+  Ctrl = 0x23800052; // AP1.CSW
+  JLINK_CORESIGHT_WriteAP(0, Ctrl);
+  //JLINK_CORESIGHT_WriteDP(JLINK_CORESIGHT_DP_REG_CTRL_STAT, 0xF0000020); // for JTAG-DP ////////////////////////
+  // Halt TM9
+  JLINK_CORESIGHT_WriteAP(1, 0xE000EDF0);
+  JLINK_CORESIGHT_WriteAP(3, 0xA05F0003);
+  JLINK_CORESIGHT_ReadAP(3);
+  //JLINK_CORESIGHT_WriteDP(JLINK_CORESIGHT_DP_REG_CTRL_STAT, 0xF0000020); // for JTAG-DP /////////////////////
+}
+
+/*********************************************************************
+*
+*       InitTarget
+*
+*  Notes
+*    (1) High-level functions like MEM_xxx functions must not be used here.
+*        They may only be used in SetupTarget() which is called later in the connect process.
+*/
+void InitTarget(void) {
+  
+  //JLINK_CORESIGHT_WriteDP(JLINK_CORESIGHT_DP_REG_CTRL_STAT, 0xF0000020);
+
+  Report("******************************************************");
+  Report("J-Link script: AmebaProII TM9 J-Link script");
+  Report("******************************************************");
+
+  /*
+  if (MAIN_ActiveTIF == JLINK_TIF_JTAG) {
+    JLINK_CORESIGHT_Configure("IRPre=0;DRPre=0;IRPost=0;DRPost=0;IRLenDevice=4");
+    JTAG_AllowTAPReset = 1;           // J-Link is allowed to use a TAP reset for JTAG-chain auto-detection
+    JTAG_SetDeviceId(0, 0x4BA00477);  // 4-bits IRLen
+  } else {
+    JLINK_CORESIGHT_Configure("");    // Perform SWD init sequence
+  }
+  */
+  
+  // Manually configured AP map
+  
+  //
+  // Tip: If AP map is not known, burn the bitfile, and run JLink.exe.
+  // Connect to the target before burning any bitfile and look for AP[0], AP[1]. AP[2], etc
+  
+  CORESIGHT_AddAP(0, CORESIGHT_APB_AP);
+  CORESIGHT_AddAP(1, CORESIGHT_AHB_AP);
+  CORESIGHT_AddAP(2, CORESIGHT_APB_AP);
+   
+  CORESIGHT_IndexAHBAPToUse = 1; // Number should follow the AP number
+  CPU = CORTEX_M33;
+  
+  // Clear STICKYERR if JLink is unable to access core via AHB-AP due to JTAG restrictions
+  JLINK_CORESIGHT_WriteDP(JLINK_CORESIGHT_DP_REG_CTRL_STAT, 0xF0000020); // for JTAG-DP
+  //JLINK_CORESIGHT_WriteDP(JLINK_CORESIGHT_DP_REG_ABORT, (1<<2)); // SWJ-DP try
+  
+  ResetTarget();  // Reset and Halt Core
+}

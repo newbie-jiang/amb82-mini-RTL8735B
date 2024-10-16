@@ -1,0 +1,17 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:454:5:FreeRTOS_read	64	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:497:5:FreeRTOS_write	64	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:582:12:mqtt_tls_verify	1040	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:643:12:my_random	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:628:14:my_calloc	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:541:6:FreeRTOS_disconnect	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:45:5:ThreadStart	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:62:6:MutexInit	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:67:5:MutexLock	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:72:5:MutexUnlock	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:78:6:TimerCountdownMS	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:85:6:TimerCountdown	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:91:5:TimerLeftMS	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:98:6:TimerIsExpired	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:104:6:TimerInit	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:562:6:NetworkInit	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/mqtt/MQTTClient/MQTTFreertos.c:653:5:NetworkConnect	96	static

@@ -1,0 +1,11 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:59:20:debug_send_line	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:218:6:mbedtls_debug_print_mpi.part.0	560	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:51:6:mbedtls_debug_set_threshold	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:78:6:mbedtls_debug_print_msg	560	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:107:6:mbedtls_debug_print_ret	544	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:135:6:mbedtls_debug_print_buf	584	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:218:6:mbedtls_debug_print_mpi	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:195:6:mbedtls_debug_print_ecp.part.0	552	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:195:6:mbedtls_debug_print_ecp	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:339:6:mbedtls_debug_print_crt	2120	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/debug.c:404:6:mbedtls_debug_printf_ecdh	24	static

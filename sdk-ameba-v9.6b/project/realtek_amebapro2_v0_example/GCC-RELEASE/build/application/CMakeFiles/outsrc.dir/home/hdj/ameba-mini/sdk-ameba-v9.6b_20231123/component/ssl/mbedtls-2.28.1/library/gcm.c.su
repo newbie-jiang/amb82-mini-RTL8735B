@@ -1,0 +1,9 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:192:13:gcm_mult	48	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:64:6:mbedtls_gcm_init	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:138:5:mbedtls_gcm_setkey	88	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:248:5:mbedtls_gcm_starts	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:337:5:mbedtls_gcm_update	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:400:5:mbedtls_gcm_finish	48	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:441:5:mbedtls_gcm_crypt_and_tag	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:474:5:mbedtls_gcm_auth_decrypt	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/gcm.c:517:6:mbedtls_gcm_free	8	static

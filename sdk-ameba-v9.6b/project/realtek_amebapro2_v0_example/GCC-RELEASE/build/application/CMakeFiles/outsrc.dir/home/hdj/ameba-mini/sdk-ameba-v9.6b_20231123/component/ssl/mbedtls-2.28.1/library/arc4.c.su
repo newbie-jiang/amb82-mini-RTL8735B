@@ -1,0 +1,4 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/arc4.c:45:6:mbedtls_arc4_init	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/arc4.c:50:6:mbedtls_arc4_free	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/arc4.c:61:6:mbedtls_arc4_setup	20	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/arc4.c:91:5:mbedtls_arc4_crypt	20	static

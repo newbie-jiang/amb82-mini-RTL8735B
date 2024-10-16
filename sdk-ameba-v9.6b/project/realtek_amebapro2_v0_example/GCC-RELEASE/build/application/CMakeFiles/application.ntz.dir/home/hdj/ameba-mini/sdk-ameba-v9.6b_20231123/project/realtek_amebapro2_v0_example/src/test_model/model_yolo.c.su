@@ -1,0 +1,14 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:63:7:yolov3_get_network_filename	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:68:7:yolov4_get_network_filename	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:73:7:yolov7_get_network_filename	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:78:6:yolov3_set_network_init_info	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:88:6:yolov4_set_network_init_info	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:98:6:yolov7_set_network_init_info	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:108:5:yolo_preprocess	40	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:391:6:yolo_set_confidence_thresh	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:397:6:yolo_set_nms_thresh	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:154:14:yolo_get_data	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:149:14:yolo_get_data_addr	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:160:12:yolo_filter_class	64	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:228:12:__decode_yolo.isra	456	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_yolo.c:321:5:yolo_postprocess	80	static

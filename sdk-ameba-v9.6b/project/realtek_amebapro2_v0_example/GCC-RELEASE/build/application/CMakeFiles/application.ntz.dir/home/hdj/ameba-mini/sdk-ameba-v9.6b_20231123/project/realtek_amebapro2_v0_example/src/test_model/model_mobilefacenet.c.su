@@ -1,0 +1,4 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_mobilefacenet.c:27:7:mbfacenet_get_network_filename	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_mobilefacenet.c:43:13:mbfacenet_input_setup	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_mobilefacenet.c:74:5:mbfacenet_preprocess	72	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/src/test_model/model_mobilefacenet.c:154:5:mbfacenet_postprocess	56	dynamic

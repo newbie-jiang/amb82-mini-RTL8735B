@@ -1,0 +1,8 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:538:6:hal_dramc_ftend_init	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:574:6:hal_dramc_perf_tune	304	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:1080:6:hal_dramc_init	88	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:1804:6:cpu_read_modify_write	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:2022:6:hal_ddr2_phy_init	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:2260:6:hal_ddr3_phy_init	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:2455:6:hal_dram_scramble_ctrl	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_init.c:2476:6:hal_init_dram	16	static

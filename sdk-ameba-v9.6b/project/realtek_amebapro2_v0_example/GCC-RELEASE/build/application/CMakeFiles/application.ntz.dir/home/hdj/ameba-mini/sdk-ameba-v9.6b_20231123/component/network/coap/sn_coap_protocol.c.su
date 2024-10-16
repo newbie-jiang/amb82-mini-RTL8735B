@@ -1,0 +1,14 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:1397:13:sn_coap_protocol_release_allocated_send_msg_mem	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:902:13:sn_coap_protocol_linked_list_send_msg_remove	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:934:13:sn_coap_protocol_send_rst.isra	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:154:16:sn_coap_protocol_init	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:220:8:sn_coap_protocol_set_block_size	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:247:8:sn_coap_protocol_set_duplicate_buffer_size	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:263:8:sn_coap_protocol_set_retransmission_parameters	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:285:8:sn_coap_protocol_set_retransmission_buffer	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:304:6:sn_coap_protocol_clear_retransmission_buffer	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:91:8:sn_coap_protocol_destroy	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:318:8:sn_coap_protocol_delete_retransmission	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:379:9:sn_coap_protocol_build	48	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:522:16:sn_coap_protocol_parse	40	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/network/coap/sn_coap_protocol.c:707:8:sn_coap_protocol_exec	48	static

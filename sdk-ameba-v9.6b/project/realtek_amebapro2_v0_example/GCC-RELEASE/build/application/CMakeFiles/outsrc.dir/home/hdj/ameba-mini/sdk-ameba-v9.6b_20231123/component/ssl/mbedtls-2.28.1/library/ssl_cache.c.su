@@ -1,0 +1,5 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_cache.c:41:6:mbedtls_ssl_cache_init	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_cache.c:53:5:mbedtls_ssl_cache_get	24	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_cache.c:138:5:mbedtls_ssl_cache_set	32	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_cache.c:311:6:mbedtls_ssl_cache_set_max_entries	0	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_cache.c:318:6:mbedtls_ssl_cache_free	16	static

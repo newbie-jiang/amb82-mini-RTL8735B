@@ -1,0 +1,4 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/dma_api.c:45:6:dma_memcpy_init	16	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/dma_api.c:60:6:dma_memcpy_deinit	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/dma_api.c:73:6:dma_memcpy	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/dma_api.c:86:6:dma_multiblk_memcpy	8	static

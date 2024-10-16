@@ -1,0 +1,13 @@
+{
+	"flash_base" : "0x08000000",
+	"enc_remap_addr":"0x08300000",
+	"encrypt":	[
+		{
+			"ena":1,
+			"type":	"IMG_BL",
+			"bias":	"REL",
+			"algo":	"AES_256_CTR",
+			"iv":	"123456789ABCDEF0"
+		}
+	]
+}

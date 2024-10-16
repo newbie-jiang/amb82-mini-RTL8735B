@@ -1,0 +1,5 @@
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/nn/nn_file_op.c:14:7:nn_f_open	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/nn/nn_file_op.c:28:6:nn_f_close	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/nn/nn_file_op.c:37:5:nn_f_read	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/nn/nn_file_op.c:46:5:nn_f_seek	8	static
+//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/nn/nn_file_op.c:55:5:nn_f_tell	8	static

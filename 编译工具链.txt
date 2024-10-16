@@ -1,0 +1,5 @@
+
+sudo apt-get update
+
+apt  install cmake
+sudo apt-get install gcc-arm-none-eabi

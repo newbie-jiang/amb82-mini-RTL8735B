@@ -1,0 +1,26 @@
+application/CMakeFiles/outsrc.dir/home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/api/netbuf.c.obj: \
+ //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/api/netbuf.c \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/opt.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/api/lwipopts.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/stdlib/platform_stdlib.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/stdlib/platform_stdlib_rtl8735b.h \
+ //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/init.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/debug.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/arch.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/port/realtek/arch/cc.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/port/realtek/arch/cpu.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/netbuf.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/pbuf.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/err.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/ip_addr.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/def.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/ip4_addr.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/ip6_addr.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/def.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/memp.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/priv/memp_std.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/priv/memp_priv.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/mem.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/priv/mem_priv.h \
+ /home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/include/lwip/stats.h
