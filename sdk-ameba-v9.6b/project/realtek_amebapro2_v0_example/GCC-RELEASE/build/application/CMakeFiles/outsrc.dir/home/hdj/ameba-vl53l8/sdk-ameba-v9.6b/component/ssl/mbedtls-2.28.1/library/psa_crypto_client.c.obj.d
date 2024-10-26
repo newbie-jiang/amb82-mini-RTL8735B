@@ -1,0 +1,34 @@
+application/CMakeFiles/outsrc.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/psa_crypto_client.c.obj: \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/psa_crypto_client.c \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/common.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/config.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/mbedtls_config.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/check_config.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_platform.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/config_psa.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_types.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_values.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_sizes.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_struct.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/cmac.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/cipher.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/platform_util.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/gcm.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_driver_contexts_primitives.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_driver_common.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_sizes.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_builtin_primitives.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/md2.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/md4.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/md5.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/ripemd160.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/sha1.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/sha256.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/sha512.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_driver_contexts_composites.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_builtin_composites.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_extra.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/psa/crypto_compat.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/ecp.h \
+ /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/include/mbedtls/bignum.h

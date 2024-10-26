@@ -1,4 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/os/os_dep/device_lock.c:22:13:device_mutex_init	24	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/os/os_dep/device_lock.c:37:6:device_mutex_free	24	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/os/os_dep/device_lock.c:52:6:device_mutex_lock	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/os/os_dep/device_lock.c:61:6:device_mutex_unlock	8	static

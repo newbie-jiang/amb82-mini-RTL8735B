@@ -1,9 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:299:1:autoip_start_probing	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:106:1:autoip_set_struct	0	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:255:1:autoip_start	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:334:1:autoip_network_changed	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:350:1:autoip_stop	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:368:1:autoip_tmr	32	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:454:1:autoip_arp_reply	24	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:512:1:autoip_supplied_address	0	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/lwip/lwip_v2.1.2/src/core/ipv4/autoip.c:522:1:autoip_accept_packet	0	static

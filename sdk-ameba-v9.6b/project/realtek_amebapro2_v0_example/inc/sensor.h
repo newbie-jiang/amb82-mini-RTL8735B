@@ -15,6 +15,7 @@ extern "C" {
 
 /**
 @code
+
  The table below gives an overview of the hardware resources supported by each
  AmebaPro EVAL board.
      - Sensor board:
@@ -29,6 +30,7 @@ extern "C" {
    AmebaPro2-EVAL   |  PS5258      |
  -----------------------------------------------------------------------------------------------------------------+
  =================================================================================================================+
+ 
 @endcode
 */
 struct sensor_params_t {
@@ -37,14 +39,14 @@ struct sensor_params_t {
 	unsigned int sensor_fps;
 };
 
-#define SENSOR_DUMMY        0x00 //For dummy sensor, no support fast camera start
+#define SENSOR_DUMMY        0x00     //For dummy sensor, no support fast camera start
 #define SENSOR_SC2336       0x01
 #define SENSOR_GC2053       0x02
 #define SENSOR_GC4653 		0x03
 #define SENSOR_F37			0x04
 #define SENSOR_IMX327		0x05
 #define SENSOR_F51			0x06
-#define SENSOR_PS5258       0x07 //It don't support the multi sensor for PS5258 now.If you want to use the sensor,please remove it.
+#define SENSOR_PS5258       0x07     //It don't support the multi sensor for PS5258 now.If you want to use the sensor,please remove it.
 #define SENSOR_SC301		0x08
 #define SENSOR_IMX307		0x09
 #define SENSOR_SC2333		0x0A
@@ -89,6 +91,8 @@ static const unsigned char sen_id[SENSOR_MAX] = {
 	SENSOR_GC4653,
 	SENSOR_F37,
 };
+
+
 #define USE_SENSOR     SENSOR_F37
 
 static const      char manual_iq[SENSOR_MAX][64] = {
@@ -98,6 +102,9 @@ static const      char manual_iq[SENSOR_MAX][64] = {
 	"iq_gc4653",
 	"iq_f37",
 };
+
+
+
 #define MANUAL_SENSOR_IQ	0xFF
 
 #define ENABLE_FCS      	0

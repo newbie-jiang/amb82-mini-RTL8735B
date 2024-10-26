@@ -1,0 +1,3 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_timer.c:45:10:hal_read_curtime_us	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_timer.c:76:6:hal_delay_us	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_timer.c:99:9:hal_is_timeout	16	static

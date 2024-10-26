@@ -1,5 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/sys_api.c:40:6:sys_reset	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/sys_api.c:49:6:sys_jtag_off	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/sys_api.c:63:9:sys_get_boot_sel	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/sys_api.c:78:9:sys_get_dram_type	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/mbed/targets/hal/rtl8735b/sys_api.c:108:9:sys_get_dram_size	16	static

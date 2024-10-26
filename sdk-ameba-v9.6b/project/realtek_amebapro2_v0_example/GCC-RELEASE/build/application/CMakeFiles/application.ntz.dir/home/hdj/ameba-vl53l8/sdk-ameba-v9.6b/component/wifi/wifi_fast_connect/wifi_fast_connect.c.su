@@ -1,0 +1,8 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:66:10:crc32	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:106:5:write_fast_connect_data_to_flash	888	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:86:5:wifi_check_fast_connect_data	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:199:5:wifi_do_fast_connect	320	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:348:5:check_is_the_same_ap	424	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:374:5:Erase_Fastconnect_data	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:391:6:wifi_fast_connect_enable	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/wifi/wifi_fast_connect/wifi_fast_connect.c:421:6:wifi_fast_connect_load_fast_dhcp	16	static

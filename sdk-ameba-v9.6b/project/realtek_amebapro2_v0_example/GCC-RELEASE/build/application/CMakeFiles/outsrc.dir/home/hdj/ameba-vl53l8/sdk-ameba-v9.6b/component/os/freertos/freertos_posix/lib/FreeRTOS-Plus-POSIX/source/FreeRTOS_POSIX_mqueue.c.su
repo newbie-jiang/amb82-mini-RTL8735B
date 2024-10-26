@@ -1,0 +1,12 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:294:19:prvFindQueueInList	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:273:13:prvDeleteMessageQueue	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:335:13:prvInitializeQueueList	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:154:12:prvCalculateTickTimeout	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:398:5:mq_close	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:461:5:mq_getattr	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:494:7:mq_open	64	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:631:9:mq_timedreceive	40	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:611:9:mq_receive	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:724:5:mq_timedsend	40	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:621:5:mq_send	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_mqueue.c:829:5:mq_unlink	24	static

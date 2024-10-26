@@ -242,6 +242,7 @@ u32 hal_comp_read(u8 addr)
  *
  *  @returns    void
  */
+
 void hal_comp_set_vref(u8 ch_num, u8 ref0, u8 ref1)
 {
 	//AON_TypeDef *aon = AON;

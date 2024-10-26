@@ -1,0 +1,6 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:9:13:http_strstr	20	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:45:6:http_free	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:65:7:http_post_header	40	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:76:7:http_get_header	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:84:7:http_response_header	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/httplite/http_client.c:108:7:http_response_body	24	static

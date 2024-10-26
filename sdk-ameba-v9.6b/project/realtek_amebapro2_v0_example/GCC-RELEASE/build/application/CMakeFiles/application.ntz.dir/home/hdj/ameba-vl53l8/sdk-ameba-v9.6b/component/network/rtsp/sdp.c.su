@@ -1,0 +1,11 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:6:6:sdp_strcat	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:14:6:sdp_fill_o_field	448	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:23:6:sdp_fill_s_field	400	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:31:6:sdp_fill_i_field	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:36:6:sdp_fill_u_field	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:41:6:sdp_fill_c_field	440	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:54:6:sdp_fill_b_field	408	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:69:6:sdp_fill_t_field	408	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:77:6:sdp_fill_m_field	408	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:97:6:sdp_fill_a_string	400	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/rtsp/sdp.c:108:6:sdp_fill_a_rtpmap	408	static

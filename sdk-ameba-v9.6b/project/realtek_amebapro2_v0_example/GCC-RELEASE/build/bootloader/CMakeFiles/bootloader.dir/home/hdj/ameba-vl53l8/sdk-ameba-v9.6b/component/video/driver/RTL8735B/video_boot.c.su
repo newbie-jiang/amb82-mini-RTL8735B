@@ -1,0 +1,9 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_cache.h:155:22:dcache_clean_invalidate_by_addr.constprop	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:23:14:video_boot_malloc	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:38:6:video_boot_set_private_mask	72	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:94:5:video_boot_buf_calc	20	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:169:5:video_boot_open	80	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:402:12:user_boot_config_init	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:407:11:user_disable_fcs	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:413:5:video_btldr_process	1688	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c:502:5:video_btldr_fcs_terminated	352	static

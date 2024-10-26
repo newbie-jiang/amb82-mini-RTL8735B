@@ -1,4 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_scan.c:1348:6:dram_r480_calibration	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_scan.c:1397:6:dram_zq_calibration	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_scan.c:1574:6:dram_set_pll_frequency	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_dram_scan.c:1607:6:dram_init_clk_frequency_dss	48	static

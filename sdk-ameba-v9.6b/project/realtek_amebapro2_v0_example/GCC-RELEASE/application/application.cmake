@@ -86,6 +86,30 @@ list(
 )
 endif()
 
+
+# #vl53l8 
+# list(
+#     APPEND out_sources
+  
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_api.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c
+#     ${prj_root}/component/other/vl53l8cx/platform.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx.c
+#     ${prj_root}/component/other/vl53l8cx/53l8a1_ranging_sensor.c
+#     ${prj_root}/component/other/vl53l8cx/custom_bus.c
+
+#     ${prj_root}/component/other/vl53l8cx/app_tof.c
+#     ${prj_root}/component/other/vl53l8cx/app_tof_pin_conf.c
+# )
+
+
+
+
+
+
+
 list(
     APPEND out_sources
 	
@@ -238,7 +262,7 @@ list(
 
 #at_cmd
 list(
-	APPEND app_sources
+	APPEND out_sources
 	${sdk_root}/component/at_cmd/atcmd_sys.c
 	${sdk_root}/component/at_cmd/atcmd_wifi.c
 	${sdk_root}/component/at_cmd/atcmd_bt.c
@@ -681,6 +705,24 @@ list(
 	${prj_root}/src/test_model/svm/fastlz/fastlz.c
 )
 
+# #vl53l8 
+# list(
+#     APPEND app_sources
+    
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_api.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c
+#     ${prj_root}/component/other/vl53l8cx/platform.c
+#     ${prj_root}/component/other/vl53l8cx/vl53l8cx.c
+#     ${prj_root}/component/other/vl53l8cx/53l8a1_ranging_sensor.c
+#     ${prj_root}/component/other/vl53l8cx/custom_bus.c
+
+#     ${prj_root}/component/other/vl53l8cx/app_tof.c
+#     ${prj_root}/component/other/vl53l8cx/app_tof_pin_conf.c
+# )
+
+
 if(PICOLIBC)
 list(
 	APPEND app_sources
@@ -936,6 +978,8 @@ list(
 	${sdk_root}/component/usb/host_new/core
 	${sdk_root}/component/usb/device_new/core
 	${sdk_root}/component/usb/
+
+	# ${prj_root}/component/other/vl53l8cx/
 )
 
 target_include_directories( ${app} PUBLIC ${app_inc_path} )

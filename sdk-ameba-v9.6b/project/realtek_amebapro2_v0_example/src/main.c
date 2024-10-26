@@ -134,8 +134,10 @@ void setup(void)
 #if defined(LOGUART_TX_OFF) && (LOGUART_TX_OFF==1)
 	atcmd_uart_init();
 #endif
-
 }
+
+
+
 
 void set_initial_tick_count(void)
 {

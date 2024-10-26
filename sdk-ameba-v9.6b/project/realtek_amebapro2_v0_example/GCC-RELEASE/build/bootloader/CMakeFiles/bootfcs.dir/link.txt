@@ -1,2 +1,2 @@
-arm-none-eabi-ar qc libbootfcs.a CMakeFiles/bootfcs.dir/home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/video/driver/RTL8735B/video_user_boot.c.obj
+arm-none-eabi-ar qc libbootfcs.a CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
 /usr/bin/arm-none-eabi-ranlib libbootfcs.a

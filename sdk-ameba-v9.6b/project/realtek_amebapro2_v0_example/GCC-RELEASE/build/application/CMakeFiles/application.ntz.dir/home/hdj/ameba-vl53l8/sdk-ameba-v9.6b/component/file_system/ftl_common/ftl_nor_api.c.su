@@ -1,0 +1,7 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:21:5:nor_read_cb	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:31:5:nor_write_cb	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:42:5:nor_erase_cb	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:52:5:ftl_write_nor	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:65:5:ftl_erase_nor	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:75:5:ftl_read_nor	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/ftl_common/ftl_nor_api.c:86:5:ftl_init_nor	16	static

@@ -989,7 +989,7 @@ void example_fatfs_thread(void *param)
 		printf("Write content:\n%s\n", WRBuf);
 		printf("\n");
 
-		/* move the file pointer to the file head*/
+		/* move the file pointer to the file head */
 		res = f_lseek(&m_file, 0);
 
 		do {

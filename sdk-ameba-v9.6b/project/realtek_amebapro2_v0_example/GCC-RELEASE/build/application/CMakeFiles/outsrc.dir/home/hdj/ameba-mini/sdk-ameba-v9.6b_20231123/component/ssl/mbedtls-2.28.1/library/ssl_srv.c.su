@@ -1,4 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_srv.c:1434:12:ssl_parse_client_hello	240	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_srv.c:51:5:mbedtls_ssl_set_client_transport_id	24	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_srv.c:69:6:mbedtls_ssl_conf_dtls_cookies	0	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/ssl/mbedtls-2.28.1/library/ssl_srv.c:4728:5:mbedtls_ssl_handshake_server_step	248	static

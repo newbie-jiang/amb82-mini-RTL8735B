@@ -1,0 +1,11 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_cache.h:131:22:dcache_invalidate_by_addr	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_cache.h:143:22:dcache_clean_by_addr	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_gdma.h:477:22:hal_gdma_irq_reg	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_gdma.h:365:30:hal_gdma_chnl_init.isra	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:406:6:hal_gdma_chnl_free	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:121:6:hal_gdma_memcpy_deinit	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:173:14:hal_gdma_hs_memcpy	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:348:14:hal_gdma_chnl_alloc	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:90:6:hal_gdma_memcpy_init	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:138:14:hal_gdma_memcpy	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_gdma.c:236:14:hal_gdma_multiblk_memcpy	40	static

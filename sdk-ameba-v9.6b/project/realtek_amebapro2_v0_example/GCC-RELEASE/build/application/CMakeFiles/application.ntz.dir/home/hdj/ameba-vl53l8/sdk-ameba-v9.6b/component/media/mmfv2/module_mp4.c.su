@@ -1,0 +1,4 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_mp4.c:39:5:mp4_handle	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_mp4.c:52:5:mp4_control	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_mp4.c:185:7:mp4_destroy	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_mp4.c:208:7:mp4_create	24	static

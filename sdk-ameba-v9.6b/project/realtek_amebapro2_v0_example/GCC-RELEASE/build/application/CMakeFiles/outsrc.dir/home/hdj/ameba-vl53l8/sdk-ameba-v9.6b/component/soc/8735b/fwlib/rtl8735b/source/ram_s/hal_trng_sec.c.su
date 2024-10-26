@@ -1,0 +1,9 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:50:14:hal_trng_sec_init	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:68:14:hal_trng_sec_deinit	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:86:14:hal_trng_sec_set_clk	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:100:14:hal_trng_sec_swrst_en	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:114:10:hal_trng_sec_get_rand	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:132:14:hal_trng_sec_set_normal_ctrl	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:150:14:hal_trng_sec_set_lfsr_ctrl	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:168:14:hal_trng_sec_set_selft_ctrl	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram_s/hal_trng_sec.c:187:14:hal_trng_sec_load_default_setting	16	static

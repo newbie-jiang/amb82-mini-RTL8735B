@@ -1,0 +1,7 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:158:5:hal_eddsa_sha2_512_init	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:177:5:hal_eddsa_sha2_512_update	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:196:5:hal_eddsa_sha2_512_final	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:132:5:hal_eddsa_hook_hash_op_f	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:95:5:hal_eddsa_engine_init	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:148:6:hal_eddsa_hook_sign_vrf_hash_op_f	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_eddsa.c:216:5:hal_eddsa_sign_verify	16	static

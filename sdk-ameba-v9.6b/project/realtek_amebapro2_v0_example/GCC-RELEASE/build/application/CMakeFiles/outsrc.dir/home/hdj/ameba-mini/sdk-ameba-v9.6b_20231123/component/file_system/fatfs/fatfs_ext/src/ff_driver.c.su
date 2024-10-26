@@ -1,5 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/fatfs/fatfs_ext/src/ff_driver.c:7:13:ff_lock	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/fatfs/fatfs_ext/src/ff_driver.c:15:13:ff_unlock	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/fatfs/fatfs_ext/src/ff_driver.c:23:5:FATFS_RegisterDiskDriver	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/fatfs/fatfs_ext/src/ff_driver.c:44:5:FATFS_UnRegisterDiskDriver	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/file_system/fatfs/fatfs_ext/src/ff_driver.c:72:5:FATFS_getDrivernum	24	static

@@ -1,0 +1,9 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:316:5:aad_handle	40	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:223:13:aad_rtp_raw_parser	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:232:13:aad_bypass_parser	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:443:7:aad_destroy	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:510:7:aad_del_item	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:468:7:aad_create	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:503:7:aad_new_item	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:45:12:AADPutBit.isra	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_aad.c:400:5:aad_control	32	static

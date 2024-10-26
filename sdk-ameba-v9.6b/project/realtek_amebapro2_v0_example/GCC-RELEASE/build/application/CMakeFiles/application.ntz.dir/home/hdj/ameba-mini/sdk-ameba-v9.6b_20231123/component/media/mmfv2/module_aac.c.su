@@ -1,7 +1,0 @@
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:119:5:aac_handle	128	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:193:5:aac_control	24	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:274:7:aac_destroy	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:293:7:aac_create	16	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:306:7:aac_new_item	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:313:7:aac_del_item	8	static
-//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/component/media/mmfv2/module_aac.c:321:7:aac_rsz_item	8	static

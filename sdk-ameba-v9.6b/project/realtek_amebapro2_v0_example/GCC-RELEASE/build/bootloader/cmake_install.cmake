@@ -1,4 +1,4 @@
-# Install script for directory: //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/bootloader
+# Install script for directory: /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/bootloader
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

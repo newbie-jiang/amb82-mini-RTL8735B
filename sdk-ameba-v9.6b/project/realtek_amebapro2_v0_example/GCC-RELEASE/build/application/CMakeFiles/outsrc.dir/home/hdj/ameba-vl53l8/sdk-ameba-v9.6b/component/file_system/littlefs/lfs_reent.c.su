@@ -1,0 +1,2 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_reent.c:12:5:lfs_system_lock	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_reent.c:25:5:lfs_system_unlock	16	static

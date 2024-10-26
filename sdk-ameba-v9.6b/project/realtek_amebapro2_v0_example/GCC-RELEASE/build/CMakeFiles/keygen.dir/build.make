@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 # Utility rule file for keygen.
 
@@ -67,7 +67,7 @@ include CMakeFiles/keygen.dir/compiler_depend.make
 include CMakeFiles/keygen.dir/progress.make
 
 CMakeFiles/keygen: ../mp/elf2bin.linux
-	/usr/bin/cmake -E copy //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/key_cfg.json keycfg.json
+	/usr/bin/cmake -E copy /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/key_cfg.json keycfg.json
 	../../GCC-RELEASE/mp/elf2bin.linux keygen keycfg.json key
 
 keygen: CMakeFiles/keygen
@@ -83,6 +83,6 @@ CMakeFiles/keygen.dir/clean:
 .PHONY : CMakeFiles/keygen.dir/clean
 
 CMakeFiles/keygen.dir/depend:
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/keygen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/keygen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/keygen.dir/depend
 

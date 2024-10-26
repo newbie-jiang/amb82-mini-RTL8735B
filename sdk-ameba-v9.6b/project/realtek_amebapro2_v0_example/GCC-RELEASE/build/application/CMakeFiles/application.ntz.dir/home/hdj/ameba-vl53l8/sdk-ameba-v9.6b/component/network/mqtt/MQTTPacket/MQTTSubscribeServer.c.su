@@ -1,0 +1,2 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTSubscribeServer.c:35:5:MQTTDeserialize_subscribe	40	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTSubscribeServer.c:88:5:MQTTSerialize_suback	32	static

@@ -1,0 +1,4 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nand_flash_api.c:47:12:nand_block_sync	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nand_flash_api.c:37:12:nand_block_erase	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nand_flash_api.c:27:12:nand_block_prog	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nand_flash_api.c:22:12:nand_block_read	16	static

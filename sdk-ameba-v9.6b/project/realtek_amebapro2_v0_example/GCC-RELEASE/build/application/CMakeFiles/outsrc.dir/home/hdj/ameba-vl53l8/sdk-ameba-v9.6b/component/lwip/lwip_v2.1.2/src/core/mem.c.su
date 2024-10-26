@@ -1,0 +1,5 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/mem.c:516:1:mem_init	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/mem.c:617:1:mem_free	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/mem.c:699:1:mem_trim	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/mem.c:831:1:mem_malloc	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/mem.c:999:1:mem_calloc	16	static

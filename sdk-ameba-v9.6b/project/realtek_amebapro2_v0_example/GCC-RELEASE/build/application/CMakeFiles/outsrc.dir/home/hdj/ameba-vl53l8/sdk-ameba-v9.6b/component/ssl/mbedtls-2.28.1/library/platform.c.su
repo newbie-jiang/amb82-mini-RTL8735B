@@ -1,0 +1,5 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/platform.c:59:8:mbedtls_calloc	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/platform.c:64:6:mbedtls_free	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/platform.c:69:5:mbedtls_platform_set_calloc_free	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/platform.c:375:5:mbedtls_platform_setup	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/platform.c:385:6:mbedtls_platform_teardown	0	static

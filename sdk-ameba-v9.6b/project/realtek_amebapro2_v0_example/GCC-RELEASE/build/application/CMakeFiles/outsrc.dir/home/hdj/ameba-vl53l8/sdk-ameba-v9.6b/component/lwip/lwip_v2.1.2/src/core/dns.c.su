@@ -1,0 +1,15 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_cache.h:155:22:dcache_clean_invalidate_by_addr	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:950:1:dns_call_found	32	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:756:1:dns_send.isra	64	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1055:1:dns_check_entry	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1178:1:dns_recv	80	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:319:1:dns_init	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:365:1:dns_setserver	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:389:1:dns_getserver	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:403:1:dns_tmr	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1555:1:dns_gethostbyname_addrtype	48	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1534:1:dns_gethostbyname	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1646:5:dns_retain	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1665:5:dns_resume	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1686:9:lwip_check_dns_resume	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/lwip/lwip_v2.1.2/src/core/dns.c:1695:6:dns_table_dump	64	static

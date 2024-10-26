@@ -367,6 +367,8 @@ void remote_stdio_get(void **read_cb, void **write_cb)
 }
 
 static char recv_buf[UART_BUF_SIZE];
+
+
 void console_stdin_handler(void *dummy)
 {
 	(void)dummy;

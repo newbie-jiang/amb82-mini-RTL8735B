@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "diag.h": "c",
+        "video_boot.h": "c",
+        "mmf2_mediatime_8735b.h": "c",
+        "video_api.h": "c",
+        "wifi_fast_connect.h": "c",
+        "example_amazon_freertos.h": "c",
+        "example_audio_helix_mp3.h": "c",
+        "app_tof.h": "c"
+    }
+}

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 # Utility rule file for sign_enc.
 
@@ -69,8 +69,8 @@ include CMakeFiles/sign_enc.dir/progress.make
 CMakeFiles/sign_enc: ../mp/elf2bin.linux
 	../../GCC-RELEASE/mp/elf2bin.linux secure sign+dbg=cert key_private.json key_public.json certificate.bin certificate_signed.bin
 	../../GCC-RELEASE/mp/elf2bin.linux secure sign+hash+dbg=ptab key_private.json key_public.json partition.bin partition_signed.bin
-	../../GCC-RELEASE/mp/elf2bin.linux secure sign+enc+hash+dbg=boot key_private.json key_public.json //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/encrypt_bl.json boot.bin boot_signed_enc.bin
-	../../GCC-RELEASE/mp/elf2bin.linux secure sign+enc+hash+dbg=fw key_private.json key_public.json //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/encrypt_fw.json firmware.bin firmware_signed_enc.bin
+	../../GCC-RELEASE/mp/elf2bin.linux secure sign+enc+hash+dbg=boot key_private.json key_public.json /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/encrypt_bl.json boot.bin boot_signed_enc.bin
+	../../GCC-RELEASE/mp/elf2bin.linux secure sign+enc+hash+dbg=fw key_private.json key_public.json /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/encrypt_fw.json firmware.bin firmware_signed_enc.bin
 	../../GCC-RELEASE/mp/elf2bin.linux combine amebapro2_partitiontable.json flash_ntz.bin PT_PT=partition_signed.bin,CER_TBL=certable.bin,KEY_CER1=certificate_signed.bin,PT_BL_PRI=boot_signed_enc.bin,PT_FW1=firmware_signed_enc.bin,PT_ISP_IQ=firmware_isp_iq.bin,PT_FCSDATA=boot_fcs.bin
 	/usr/bin/cmake -E copy ./firmware_signed_enc.bin ./ota.bin
 	../../GCC-RELEASE/mp/checksum.linux ./ota.bin
@@ -88,6 +88,6 @@ CMakeFiles/sign_enc.dir/clean:
 .PHONY : CMakeFiles/sign_enc.dir/clean
 
 CMakeFiles/sign_enc.dir/depend:
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/sign_enc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/sign_enc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/sign_enc.dir/depend
 

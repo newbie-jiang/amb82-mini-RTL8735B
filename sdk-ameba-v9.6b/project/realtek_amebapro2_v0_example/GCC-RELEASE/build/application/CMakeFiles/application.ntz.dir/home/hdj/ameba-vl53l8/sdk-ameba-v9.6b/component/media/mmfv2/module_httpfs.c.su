@@ -1,0 +1,10 @@
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:1008:5:httpfs_handle	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:1058:7:httpfs_new_item	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:1063:7:httpfs_del_item	0	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:980:5:httpfs_control	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:583:13:pb_homepage_cb	520	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:1013:7:httpfs_destroy	8	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:1029:7:httpfs_create	24	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:962:13:example_httpd_thread	16	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:76:5:qt_faststart	56	static
+/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_httpfs.c:699:13:pb_test_get_cb	152	static

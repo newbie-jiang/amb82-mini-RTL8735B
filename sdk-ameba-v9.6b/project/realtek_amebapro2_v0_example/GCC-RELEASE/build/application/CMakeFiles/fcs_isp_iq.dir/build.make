@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 # Utility rule file for fcs_isp_iq.
 
@@ -70,10 +70,10 @@ application/CMakeFiles/fcs_isp_iq: application/firmware_isp_iq.bin
 
 application/firmware_isp_iq.bin: ../mp/amebapro2_sensor_set.json
 application/firmware_isp_iq.bin: ../mp/amebapro2_isp_iq.json
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=//home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating firmware_isp_iq.bin, isp_iq.bin"
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/gen_snrlst.linux //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../inc/sensor.h
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/elf2bin.linux convert amebapro2_sensor_set.json ISP_SENSOR_SETS isp_iq.bin
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/elf2bin.linux convert amebapro2_isp_iq.json FIRMWARE firmware_isp_iq.bin
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating firmware_isp_iq.bin, isp_iq.bin"
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/gen_snrlst.linux /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../inc/sensor.h
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/elf2bin.linux convert amebapro2_sensor_set.json ISP_SENSOR_SETS isp_iq.bin
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && ../../../GCC-RELEASE/mp/elf2bin.linux convert amebapro2_isp_iq.json FIRMWARE firmware_isp_iq.bin
 
 application/isp_iq.bin: application/firmware_isp_iq.bin
 	@$(CMAKE_COMMAND) -E touch_nocreate application/isp_iq.bin
@@ -89,10 +89,10 @@ application/CMakeFiles/fcs_isp_iq.dir/build: fcs_isp_iq
 .PHONY : application/CMakeFiles/fcs_isp_iq.dir/build
 
 application/CMakeFiles/fcs_isp_iq.dir/clean:
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && $(CMAKE_COMMAND) -P CMakeFiles/fcs_isp_iq.dir/cmake_clean.cmake
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application && $(CMAKE_COMMAND) -P CMakeFiles/fcs_isp_iq.dir/cmake_clean.cmake
 .PHONY : application/CMakeFiles/fcs_isp_iq.dir/clean
 
 application/CMakeFiles/fcs_isp_iq.dir/depend:
-	cd //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/application //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application //home/hdj/ameba-mini/sdk-ameba-v9.6b_20231123/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application/CMakeFiles/fcs_isp_iq.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/application /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/application/CMakeFiles/fcs_isp_iq.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : application/CMakeFiles/fcs_isp_iq.dir/depend
 
