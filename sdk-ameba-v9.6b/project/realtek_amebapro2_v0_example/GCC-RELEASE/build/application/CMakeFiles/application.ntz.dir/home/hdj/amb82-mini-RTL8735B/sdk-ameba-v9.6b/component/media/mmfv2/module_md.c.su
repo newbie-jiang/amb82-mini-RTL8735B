@@ -1,0 +1,6 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:310:14:md_del_item	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:303:14:md_new_item	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:261:14:md_create	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:247:14:md_destroy	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:53:12:md_handle	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_md.c:125:12:md_control	32	static

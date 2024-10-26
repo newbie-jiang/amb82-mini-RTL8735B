@@ -1,0 +1,3 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_sched.c:37:5:sched_get_priority_max	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_sched.c:47:5:sched_get_priority_min	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_sched.c:57:5:sched_yield	8	static

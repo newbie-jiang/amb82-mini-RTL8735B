@@ -1,0 +1,3 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/cmsis/rtl8735b/source/ram/mpu_config.c:38:6:mpu_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/cmsis/rtl8735b/source/ram/mpu_config.c:131:6:mpu_set_mem_attr	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/cmsis/rtl8735b/source/ram/mpu_config.c:152:6:mpu_region_cfg	0	static

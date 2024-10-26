@@ -1,0 +1,75 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:249:9:double Kernel::kernel_precomputed(int, int) const	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:398:10:Solver::~Solver()	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:788:5:virtual int Solver::select_working_set(int&, int&)	120	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:968:8:virtual double Solver::calculate_rho()	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1031:5:virtual int Solver_NU::select_working_set(int&, int&)	144	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1215:8:virtual double Solver_NU::calculate_rho()	88	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1293:10:virtual double* SVC_Q::get_QD() const	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1342:10:virtual double* ONE_CLASS_Q::get_QD() const	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1415:10:virtual double* SVR_Q::get_QD() const	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:213:15:virtual void Kernel::swap_index(int, int) const	20	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1011:7:Solver_NU::~Solver_NU()	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:22:48:void clone(T*&, S*, int) [with S = const double; T = double]	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:398:10:virtual Solver::~Solver()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1011:7:virtual Solver_NU::~Solver_NU()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:50:13:)	1040	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:42:13:void print_string_stdout(const char*)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2751:14:char* readline(SIM_FILE*)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2016:13:constprop(const svm_problem*, int*, int**, int**, int**, int*)	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1389:7:virtual void SVR_Q::swap_index(int, int) const	20	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:96:1:Cache::Cache(int, long int)	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:105:1:Cache::~Cache()	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:112:6:void Cache::lru_delete(Cache::head_t*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:119:6:void Cache::lru_insert(Cache::head_t*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:128:5:int Cache::get_data(int, Qfloat**, int)	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1396:10:virtual Qfloat* SVR_Q::get_Q(int, int) const	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1330:10:virtual Qfloat* ONE_CLASS_Q::get_Q(int, int) const	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1281:10:virtual Qfloat* SVC_Q::get_Q(int, int) const	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:158:6:void Cache::swap_index(int, int)	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1347:7:virtual void ONE_CLASS_Q::swap_index(int, int) const	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1298:7:virtual void SVC_Q::swap_index(int, int) const	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:290:1:Kernel::~Kernel()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1306:2:SVC_Q::~SVC_Q()	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1306:2:virtual SVC_Q::~SVC_Q()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1354:2:ONE_CLASS_Q::~ONE_CLASS_Q()	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1354:2:virtual ONE_CLASS_Q::~ONE_CLASS_Q()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1420:2:SVR_Q::~SVR_Q()	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1420:2:virtual SVR_Q::~SVR_Q()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:290:1:virtual Kernel::~Kernel()	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:296:8:static double Kernel::dot(const svm_node*, const svm_node*)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:255:1:Kernel::Kernel(int, svm_node* const*, const svm_parameter&)	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:245:9:double Kernel::kernel_sigmoid(int, int) const	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:241:9:double Kernel::kernel_rbf(int, int) const	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:237:9:double Kernel::kernel_poly(int, int) const	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:233:9:double Kernel::kernel_linear(int, int) const	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:318:8:static double Kernel::k_function(const svm_node*, const svm_node*, const svm_parameter&)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:432:7:void Solver::update_alpha_status(int)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:452:6:void Solver::swap_index(int, int)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:464:6:void Solver::reconstruct_gradient()	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:506:6:void Solver::Solve(int, const QMatrix&, const double*, const schar*, double*, double, double, double, Solver::SolutionInfo*, int)	176	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:887:6:bool Solver::be_shrunk(int, double, double)	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:907:6:virtual void Solver::do_shrinking()	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1143:6:bool Solver_NU::be_shrunk(int, double, double, double, double)	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1163:6:virtual void Solver_NU::do_shrinking()	96	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1271:2:SVC_Q::SVC_Q(const svm_problem&, const svm_parameter&, const schar*)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1367:2:SVR_Q::SVR_Q(const svm_problem&, const svm_parameter&)	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:1649:26:decision_function svm_train_one(const svm_problem*, const svm_parameter*, double, double)	376	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2462:5:int svm_get_svm_type(const svm_model*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2467:5:int svm_get_nr_class(const svm_model*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2472:6:void svm_get_labels(const svm_model*, int*)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2479:6:void svm_get_sv_indices(const svm_model*, int*)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2486:5:int svm_get_nr_sv(const svm_model*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2491:8:double svm_get_svr_probability(const svm_model*)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2503:8:double svm_predict_values(const svm_model*, const svm_node*, double*)	96	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2579:8:double svm_predict(const svm_model*, const svm_node*)	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2594:8:double svm_predict_probability(const svm_model*, const svm_node*, double*)	144	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2777:6:bool read_model_header(SIM_FILE*, svm_model*)	128	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2891:12:svm_model* svm_load_model(const char*)	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2990:6:void svm_free_model_content(svm_model*)	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:3025:6:void svm_free_and_destroy_model(svm_model**)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:3035:6:void svm_destroy_param(svm_parameter*)	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2094:12:svm_model* svm_train(const svm_problem*, const svm_parameter*)	520	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:2341:6:void svm_cross_validation(const svm_problem*, const svm_parameter*, int, double*)	104	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:3041:13:const char* svm_check_parameter(const svm_problem*, const svm_parameter*)	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:3163:5:int svm_check_probability_model(const svm_model*)	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/svm/svm.cpp:3171:6:void svm_set_print_string_function(void (*)(const char*))	0	static

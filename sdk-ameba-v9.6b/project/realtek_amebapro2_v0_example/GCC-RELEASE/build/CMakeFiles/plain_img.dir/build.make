@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 # Utility rule file for plain_img.
 
@@ -74,10 +74,10 @@ CMakeFiles/plain_img: ../mp/amebapro2_partitiontable.json
 CMakeFiles/plain_img: key_public.json
 CMakeFiles/plain_img: key_private.json
 CMakeFiles/plain_img: ../mp/elf2bin.linux
-	/usr/bin/cmake -E copy /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/certificate.json certificate.json
+	/usr/bin/cmake -E copy /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/certificate.json certificate.json
 	../../GCC-RELEASE/mp/elf2bin.linux convert certificate.json CERT_TABLE certable.bin
 	../../GCC-RELEASE/mp/elf2bin.linux convert certificate.json CERTIFICATE certificate.bin
-	/usr/bin/cmake -E copy /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/amebapro2_partitiontable.json amebapro2_partitiontable.json
+	/usr/bin/cmake -E copy /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/amebapro2_partitiontable.json amebapro2_partitiontable.json
 	../../GCC-RELEASE/mp/elf2bin.linux convert amebapro2_partitiontable.json PARTITIONTABLE partition.bin
 	/usr/bin/cmake -E copy bootloader/boot.bin .
 	/usr/bin/cmake -E copy bootloader/boot_fcs.bin .
@@ -87,8 +87,8 @@ CMakeFiles/plain_img: ../mp/elf2bin.linux
 	/usr/bin/cmake -E copy application/APP.trace ./APP.trace
 
 key_public.json:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating key_public.json, key_private.json"
-	/usr/bin/cmake -E copy /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/key_cfg.json keycfg.json
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating key_public.json, key_private.json"
+	/usr/bin/cmake -E copy /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/../GCC-RELEASE/mp/key_cfg.json keycfg.json
 	../../GCC-RELEASE/mp/elf2bin.linux keygen keycfg.json key
 
 key_private.json: key_public.json
@@ -109,6 +109,6 @@ CMakeFiles/plain_img.dir/clean:
 .PHONY : CMakeFiles/plain_img.dir/clean
 
 CMakeFiles/plain_img.dir/depend:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/plain_img.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/plain_img.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/plain_img.dir/depend
 

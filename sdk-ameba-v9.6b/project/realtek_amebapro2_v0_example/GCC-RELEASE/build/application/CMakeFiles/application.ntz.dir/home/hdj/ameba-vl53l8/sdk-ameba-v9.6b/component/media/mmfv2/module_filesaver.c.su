@@ -1,4 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_filesaver.c:55:7:filesaver_destroy	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_filesaver.c:66:7:filesaver_create	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_filesaver.c:13:5:filesaver_handle	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_filesaver.c:30:5:filesaver_control	16	static

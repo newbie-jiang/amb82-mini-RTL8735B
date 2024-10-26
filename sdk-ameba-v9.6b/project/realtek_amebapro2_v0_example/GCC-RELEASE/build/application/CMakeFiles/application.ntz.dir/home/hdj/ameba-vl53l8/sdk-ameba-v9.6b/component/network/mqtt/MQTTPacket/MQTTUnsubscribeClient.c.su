@@ -1,3 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTUnsubscribeClient.c:28:5:MQTTSerialize_unsubscribeLength	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTUnsubscribeClient.c:50:5:MQTTSerialize_unsubscribe	40	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTUnsubscribeClient.c:93:5:MQTTDeserialize_unsuback	24	static

@@ -1,5 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c:30:6:eip_auto_wdr_task	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c:6:6:eip_auto_wdr_get_version	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c:11:6:eip_auto_wdr_show_info	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c:80:6:eip_auto_wdr_task_start	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c:106:6:eip_auto_wdr_task_stop	16	static

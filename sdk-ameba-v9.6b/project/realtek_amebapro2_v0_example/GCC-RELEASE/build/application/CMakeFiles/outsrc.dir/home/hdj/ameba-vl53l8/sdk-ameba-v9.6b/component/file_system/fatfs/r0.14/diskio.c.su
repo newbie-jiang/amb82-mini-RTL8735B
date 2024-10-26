@@ -1,7 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:16:9:disk_status	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:37:9:disk_initialize	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:57:9:disk_deinitialize	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:76:9:disk_read	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:104:9:disk_write	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:133:9:disk_ioctl	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/fatfs/r0.14/diskio.c:155:7:get_fattime	0	static

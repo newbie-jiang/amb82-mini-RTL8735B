@@ -1,5 +1,5 @@
 
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader/bootloader:     file format elf32-littlearm
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader/bootloader:     file format elf32-littlearm
 
 
 Disassembly of section .ram.code_text:

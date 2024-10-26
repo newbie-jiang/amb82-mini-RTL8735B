@@ -1,5 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/bignum.c:189:12:mbedtls_mpi_resize_clear	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/bignum.c:795:5:mbedtls_mpi_read_binary_le	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/bignum.c:859:5:mbedtls_mpi_write_binary_le	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/bignum.c:2422:5:mbedtls_mpi_random	80	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/bignum.c:2753:5:mbedtls_mpi_is_prime_ext	136	static

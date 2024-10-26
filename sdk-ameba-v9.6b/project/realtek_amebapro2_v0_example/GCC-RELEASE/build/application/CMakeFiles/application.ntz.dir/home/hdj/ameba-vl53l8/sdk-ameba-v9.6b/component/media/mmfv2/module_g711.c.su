@@ -1,6 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:23:5:g711_handle	32	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:73:5:g711_control	0	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:101:7:g711_destroy	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:131:7:g711_del_item	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:124:7:g711_new_item	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_g711.c:112:7:g711_create	8	static

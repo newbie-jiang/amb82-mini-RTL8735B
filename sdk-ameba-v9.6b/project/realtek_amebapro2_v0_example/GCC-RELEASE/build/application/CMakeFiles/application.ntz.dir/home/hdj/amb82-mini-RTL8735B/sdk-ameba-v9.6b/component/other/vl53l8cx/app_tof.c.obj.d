@@ -1,0 +1,21 @@
+application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/inc/main.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/driver/include/autoconf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/driver/include/autoconf_debug.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/driver/include/autoconf_8735b.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/driver/include/autoconf_eap.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/ranging_sensor.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_errno.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.h

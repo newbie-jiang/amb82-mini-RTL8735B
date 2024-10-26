@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 # Include any dependencies generated for this target.
 include bootloader/CMakeFiles/bootfcs.dir/depend.make
@@ -69,43 +69,43 @@ include bootloader/CMakeFiles/bootfcs.dir/progress.make
 # Include the compile flags for this target's objects.
 include bootloader/CMakeFiles/bootfcs.dir/flags.make
 
-bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: bootloader/CMakeFiles/bootfcs.dir/flags.make
-bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c
-bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: bootloader/CMakeFiles/bootfcs.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj"
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj -MF CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj.d -o CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj -c /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c
+bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: bootloader/CMakeFiles/bootfcs.dir/flags.make
+bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c
+bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj: bootloader/CMakeFiles/bootfcs.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj"
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj -MF CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj.d -o CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj -c /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c
 
-bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i"
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c > CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
+bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i"
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c > CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
 
-bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s"
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c -o CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
+bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s"
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c -o CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
 
 # Object files for target bootfcs
 bootfcs_OBJECTS = \
-"CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj"
+"CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj"
 
 # External object files for target bootfcs
 bootfcs_EXTERNAL_OBJECTS =
 
-bootloader/libbootfcs.a: bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
+bootloader/libbootfcs.a: bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
 bootloader/libbootfcs.a: bootloader/CMakeFiles/bootfcs.dir/build.make
 bootloader/libbootfcs.a: bootloader/CMakeFiles/bootfcs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libbootfcs.a"
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -P CMakeFiles/bootfcs.dir/cmake_clean_target.cmake
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bootfcs.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libbootfcs.a"
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -P CMakeFiles/bootfcs.dir/cmake_clean_target.cmake
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bootfcs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 bootloader/CMakeFiles/bootfcs.dir/build: bootloader/libbootfcs.a
 .PHONY : bootloader/CMakeFiles/bootfcs.dir/build
 
 bootloader/CMakeFiles/bootfcs.dir/clean:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -P CMakeFiles/bootfcs.dir/cmake_clean.cmake
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader && $(CMAKE_COMMAND) -P CMakeFiles/bootfcs.dir/cmake_clean.cmake
 .PHONY : bootloader/CMakeFiles/bootfcs.dir/clean
 
 bootloader/CMakeFiles/bootfcs.dir/depend:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/bootloader /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader/CMakeFiles/bootfcs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/bootloader /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader/CMakeFiles/bootfcs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : bootloader/CMakeFiles/bootfcs.dir/depend
 

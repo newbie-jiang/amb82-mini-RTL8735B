@@ -1,0 +1,11 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:71:6:shell_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:87:6:shell_init_with_stdio_port	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:104:6:shell_set_cmd_buf	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:123:6:shell_set_hist_buf	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:135:6:shell_set_prompt	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:149:6:shell_set_cmd_table	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:163:6:shell_set_cmd_list	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:189:6:shell_register	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:199:6:shell_unregister_all	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:217:5:shell_task	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c:231:6:shell_cmd_init	8	static

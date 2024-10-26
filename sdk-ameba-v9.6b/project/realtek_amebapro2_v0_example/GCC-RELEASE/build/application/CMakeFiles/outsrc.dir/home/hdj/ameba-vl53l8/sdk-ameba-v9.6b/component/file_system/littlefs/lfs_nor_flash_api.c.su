@@ -1,4 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nor_flash_api.c:38:5:nor_block_sync	0	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nor_flash_api.c:19:5:nor_block_read	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nor_flash_api.c:26:5:nor_block_prog	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/file_system/littlefs/lfs_nor_flash_api.c:32:5:nor_block_erase	8	static

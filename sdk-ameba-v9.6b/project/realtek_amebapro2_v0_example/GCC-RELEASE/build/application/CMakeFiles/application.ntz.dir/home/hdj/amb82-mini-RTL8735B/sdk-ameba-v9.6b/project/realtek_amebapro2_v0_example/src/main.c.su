@@ -1,0 +1,7 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_uart.h:168:6:hal_uart_wputc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/fwlib/rtl8735b/include/hal_uart.h:274:21:hal_uart_rgetc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c:86:6:log_uart_port_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c:117:13:app_example	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c:119:6:setup	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c:142:6:set_initial_tick_count	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c:164:6:main	8	static

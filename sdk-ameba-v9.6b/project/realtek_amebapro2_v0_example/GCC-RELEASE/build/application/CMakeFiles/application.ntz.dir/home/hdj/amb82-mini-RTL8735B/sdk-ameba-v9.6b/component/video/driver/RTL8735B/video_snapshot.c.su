@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:54:5:snapshot_write_picture	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:31:12:video_snapshot_cb	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:64:12:video_capture_snapshot.isra	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:76:5:snapshot_vfs_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:93:5:video_snapshot_take	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:111:5:video_snapshot_take_with_streaming	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:123:5:video_snapshot_init	120	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:189:5:video_snapshot_init_with_streaming	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:222:5:video_snapshot_deinit	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:241:5:video_snapshot_deinit_with_streaming	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:258:13:fSNAP	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_snapshot.c:341:6:atcmd_snapshot_init	8	static

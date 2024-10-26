@@ -1,9 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:138:17:mov_file_tell	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:133:12:mov_file_seek	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:128:12:mov_file_write	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:120:12:mov_file_read	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:154:5:fmp4_control	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:205:7:fmp4_destroy	16	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:230:7:fmp4_create	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:30:5:fmp4_handle	152	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/media/mmfv2/module_fmp4.c:143:28:mov_file_buffer	0	static

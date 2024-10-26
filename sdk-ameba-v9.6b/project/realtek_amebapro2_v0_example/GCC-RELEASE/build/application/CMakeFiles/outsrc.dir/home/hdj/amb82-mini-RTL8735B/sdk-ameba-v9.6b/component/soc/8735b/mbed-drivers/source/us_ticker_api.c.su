@@ -1,0 +1,4 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/mbed-drivers/source/us_ticker_api.c:23:6:us_ticker_set_handler	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/mbed-drivers/source/us_ticker_api.c:30:6:us_ticker_irq_handler	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/mbed-drivers/source/us_ticker_api.c:61:6:us_ticker_insert_event	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/mbed-drivers/source/us_ticker_api.c:96:6:us_ticker_remove_event	8	static

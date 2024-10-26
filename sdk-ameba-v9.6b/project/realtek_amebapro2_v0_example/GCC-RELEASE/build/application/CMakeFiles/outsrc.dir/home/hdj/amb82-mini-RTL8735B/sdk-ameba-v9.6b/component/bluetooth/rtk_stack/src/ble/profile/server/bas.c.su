@@ -1,0 +1,6 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:282:6:bas_cccd_update_cb	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:236:14:bas_attr_read_cb	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:136:6:bas_set_parameter	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:185:6:bas_battery_level_value_notify	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:210:6:bas_battery_level_value_read_confirm	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/bas.c:348:13:bas_add_service	24	static

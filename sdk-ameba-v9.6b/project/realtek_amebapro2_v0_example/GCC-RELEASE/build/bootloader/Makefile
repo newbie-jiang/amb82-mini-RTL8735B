@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
+CMAKE_SOURCE_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
+CMAKE_BINARY_DIR = /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader//CMakeFiles/progress.marks
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles 0
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/bootloader//CMakeFiles/progress.marks
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/clean
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,23 +103,23 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/preinstall
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/preinstall
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -P /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/VerifyGlobs.cmake
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -P /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/VerifyGlobs.cmake
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 bootloader/CMakeFiles/bootfcs.dir/rule:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/CMakeFiles/bootfcs.dir/rule
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/CMakeFiles/bootfcs.dir/rule
 .PHONY : bootloader/CMakeFiles/bootfcs.dir/rule
 
 # Convenience name for target.
@@ -128,12 +128,12 @@ bootfcs: bootloader/CMakeFiles/bootfcs.dir/rule
 
 # fast build rule for target.
 bootfcs/fast:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/build
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/build
 .PHONY : bootfcs/fast
 
 # Convenience name for target.
 bootloader/CMakeFiles/bootloader.dir/rule:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/CMakeFiles/bootloader.dir/rule
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bootloader/CMakeFiles/bootloader.dir/rule
 .PHONY : bootloader/CMakeFiles/bootloader.dir/rule
 
 # Convenience name for target.
@@ -142,80 +142,80 @@ bootloader: bootloader/CMakeFiles/bootloader.dir/rule
 
 # fast build rule for target.
 bootloader/fast:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/build
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/build
 .PHONY : bootloader/fast
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj
 
 # target to build an object file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.obj
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i
 
 # target to preprocess a source file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.i
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s
 
 # target to generate assembly for a file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.c.s
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj
 
 # target to build an object file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.obj
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i
 
 # target to preprocess a source file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.i
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s
 
 # target to generate assembly for a file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootloader.dir/build.make bootloader/CMakeFiles/bootloader.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.c.s
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj
 
 # target to build an object file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.obj
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i
 
 # target to preprocess a source file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.i
 
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s: home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s
 
 # target to generate assembly for a file
-home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
-.PHONY : home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f bootloader/CMakeFiles/bootfcs.dir/build.make bootloader/CMakeFiles/bootfcs.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.c.s
 
 # Help Target
 help:
@@ -227,15 +227,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... bootfcs"
 	@echo "... bootloader"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i"
-	@echo "... home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/misc/platform/user_boot.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_boot.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/driver/RTL8735B/video_user_boot.s"
 .PHONY : help
 
 
@@ -247,7 +247,7 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -P /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/VerifyGlobs.cmake
-	cd /home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -P /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles/VerifyGlobs.cmake
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,3 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/iou.c:29:14:box_intersection	0	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/iou.c:47:14:box_iou	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/iou.c:80:7:iou	32	static

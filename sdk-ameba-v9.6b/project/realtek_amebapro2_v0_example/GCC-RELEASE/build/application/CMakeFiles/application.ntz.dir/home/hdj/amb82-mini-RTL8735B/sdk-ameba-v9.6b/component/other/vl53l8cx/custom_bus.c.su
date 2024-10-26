@@ -1,0 +1,11 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:29:5:BSP_I2C4_Init	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:42:5:BSP_I2C4_DeInit	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:55:5:BSP_I2C4_IsReady	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:71:5:BSP_I2C4_WriteReg	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:87:6:BSP_I2C4_ReadReg	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:105:5:BSP_I2C4_WriteReg16	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:120:6:BSP_I2C4_ReadReg16	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:135:5:BSP_I2C4_Send	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:150:5:BSP_I2C4_Recv	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:163:5:BSP_I2C4_RegisterDefaultMspCallbacks	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c:176:5:BSP_GetTick	0	static

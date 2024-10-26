@@ -1,8 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:148:12:ccm_auth_crypt	128	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:61:6:mbedtls_ccm_init	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:67:5:mbedtls_ccm_setkey	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:103:6:mbedtls_ccm_free	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:319:5:mbedtls_ccm_star_encrypt_and_tag	40	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:335:5:mbedtls_ccm_encrypt_and_tag	32	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:357:5:mbedtls_ccm_star_auth_decrypt	72	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/ssl/mbedtls-2.28.1/library/ccm.c:395:5:mbedtls_ccm_auth_decrypt	32	static

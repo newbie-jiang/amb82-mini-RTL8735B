@@ -1,5 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/tftp/tftp_client.c:9:5:req_packet	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/tftp/tftp_client.c:43:6:ip_port	32	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/tftp/tftp_client.c:49:5:tftp_client_send	176	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/tftp/tftp_client.c:190:5:tftp_client_get	184	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/component/network/tftp/tftp_client.c:334:5:tftp_client_start	328	static

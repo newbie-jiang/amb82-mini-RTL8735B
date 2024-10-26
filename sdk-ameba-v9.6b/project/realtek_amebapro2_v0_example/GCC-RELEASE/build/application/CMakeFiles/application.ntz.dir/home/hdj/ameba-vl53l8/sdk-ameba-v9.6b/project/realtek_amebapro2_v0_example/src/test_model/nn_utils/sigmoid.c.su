@@ -1,5 +1,0 @@
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/sigmoid.c:7:7:fast_exp	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/sigmoid.c:17:7:sigmoid_alt1	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/sigmoid.c:22:7:sigmoid_alt2	24	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/sigmoid.c:32:7:sigmoid_alt3	8	static
-/home/hdj/ameba-vl53l8/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/sigmoid.c:46:7:inv_sigmoid	8	static
