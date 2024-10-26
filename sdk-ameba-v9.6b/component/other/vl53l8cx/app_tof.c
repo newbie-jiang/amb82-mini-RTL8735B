@@ -120,8 +120,12 @@ static void MX_53L8A1_SimpleRanging_Init(void)
 
   if (status != BSP_ERROR_NONE)
   {
-    printf("VL53L8A1_RANGING_SENSOR_Init failed\n");
-    while (1);
+    printf("VL53L8A1_RANGING_SENSOR_Init failed\r\n");
+    // while (1);
+  }else{
+
+    printf("VL53L8A1_RANGING_SENSOR_Init success\r\n");
+
   }
 }
 

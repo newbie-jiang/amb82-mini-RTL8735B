@@ -230,8 +230,8 @@ CMakeFiles/auto_model_cfg.dir/clean:
 # Target rules for target CMakeFiles/flash_nn.dir
 
 # All Build rule for target.
-CMakeFiles/flash_nn.dir/all: CMakeFiles/auto_model_cfg.dir/all
 CMakeFiles/flash_nn.dir/all: CMakeFiles/plain_img.dir/all
+CMakeFiles/flash_nn.dir/all: CMakeFiles/auto_model_cfg.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/flash_nn.dir/build.make CMakeFiles/flash_nn.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/flash_nn.dir/build.make CMakeFiles/flash_nn.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build/CMakeFiles --progress-num= "Built target flash_nn"

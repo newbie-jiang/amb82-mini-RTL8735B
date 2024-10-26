@@ -487,15 +487,19 @@ static int32_t VL53L8CX_Probe(uint32_t Instance)
   if (VL53L8CX_RegisterBusIO(&(VL53L8CXObj[Instance]), &IOCtx) != VL53L8CX_OK)
   {
     ret = BSP_ERROR_COMPONENT_FAILURE;
+    printf("VL53L8CX_RegisterBusIO err\r\n");
   }
   else
   {
-    VL53L8A1_RANGING_SENSOR_Drv = (RANGING_SENSOR_Drv_t *) &VL53L8CX_RANGING_SENSOR_Driver;
-    VL53L8A1_RANGING_SENSOR_CompObj[Instance] = &(VL53L8CXObj[Instance]);
+    
+
+     VL53L8A1_RANGING_SENSOR_Drv = (RANGING_SENSOR_Drv_t *) &VL53L8CX_RANGING_SENSOR_Driver;
+     VL53L8A1_RANGING_SENSOR_CompObj[Instance] = &(VL53L8CXObj[Instance]);
 
     if (VL53L8CX_ReadID(&(VL53L8CXObj[Instance]), &id) != VL53L8CX_OK)
     {
       ret = BSP_ERROR_COMPONENT_FAILURE;
+      printf("VL53L8CX_ReadID err\r\n");
     }
     else if (id != VL53L8CX_ID)
     {
@@ -515,6 +519,8 @@ static int32_t VL53L8CX_Probe(uint32_t Instance)
       ret = BSP_ERROR_NONE;
     }
   }
+
+  printf("VL53L8CX_Probe ret = %d\r\n", ret);
 
   return ret;
 }

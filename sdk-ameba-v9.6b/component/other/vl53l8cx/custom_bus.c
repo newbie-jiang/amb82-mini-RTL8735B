@@ -19,19 +19,35 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "custom_bus.h"
+#include "i2c_api.h"
+
+#include "FreeRTOS.h"
+#include "task.h"
 
 
 
+//PF1 --- SCL
+//PF2 --- SDA
 
 
+i2c_t   i2cmaster;
+
+
+#define VL53L8CX_SCL    PF_1 
+#define VL53L8CX_SDA    PF_2 
 
 
 int BSP_I2C4_Init(void)
 {
-
   int ret = 0;
 
- 
+  /* i2c init */
+  i2c_init(&i2cmaster, VL53L8CX_SDA, VL53L8CX_SCL);
+
+  /* set i2c freq */
+  i2c_frequency(&i2cmaster, 10000);
+
+
   return ret;
 }
 
@@ -42,6 +58,8 @@ int BSP_I2C4_Init(void)
 int BSP_I2C4_DeInit(void)
 {
   int ret = 0;
+
+  i2c_reset(&i2cmaster);
 
   return ret;
 }
@@ -105,7 +123,7 @@ int  BSP_I2C4_ReadReg(unsigned short DevAddr, unsigned short Reg, unsigned char 
 int BSP_I2C4_WriteReg16(unsigned short DevAddr, unsigned short Reg, unsigned char *pData, unsigned short Length)
 {
   int ret = 0;
-
+  i2c_write(&i2cmaster, Reg, pData, Length, 1);
   
   return ret;
 }
@@ -119,10 +137,7 @@ int BSP_I2C4_WriteReg16(unsigned short DevAddr, unsigned short Reg, unsigned cha
   */
 int  BSP_I2C4_ReadReg16(unsigned short DevAddr, unsigned short Reg, unsigned char *pData, unsigned short Length)
 {
-  int ret = 0;
-
- 
-  return ret;
+  return i2c_read(&i2cmaster, Reg ,pData , Length, 1);
 }
 
 /**
@@ -172,10 +187,9 @@ int BSP_I2C4_RegisterDefaultMspCallbacks (void)
   * @retval BSP status
   */
 
-
 int BSP_GetTick(void) {
-  // return HAL_GetTick();
-  return 0;
+  
+  return xTaskGetTickCount();
 }
 
 

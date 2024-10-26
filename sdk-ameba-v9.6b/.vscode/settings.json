@@ -7,6 +7,7 @@
         "wifi_fast_connect.h": "c",
         "example_amazon_freertos.h": "c",
         "example_audio_helix_mp3.h": "c",
-        "app_tof.h": "c"
+        "app_tof.h": "c",
+        "custom_bus.h": "c"
     }
 }

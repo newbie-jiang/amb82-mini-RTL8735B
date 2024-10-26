@@ -21,7 +21,10 @@ void example_vl53l8cx_thread(void *param)
 
    while (1)
    {
-	 MX_TOF_Process();
+	//   MX_TOF_Process();
+
+   //  printf("example_vl53l8cx_thread\r\n");
+   //  vTaskDelay(1000);
    }
    
 }
