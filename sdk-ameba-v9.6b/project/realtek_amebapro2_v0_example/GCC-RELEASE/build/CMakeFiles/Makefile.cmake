@@ -7,7 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/vl53l8cx.cmake"
   "../CMakeLists.txt"
   "../application/CMakeLists.txt"
   "../application/application.cmake"
@@ -24,6 +23,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../sensor_iq.cmake"
   "../toolchain.cmake"
   "/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/inc/build_info.h.in"
+  "/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.cmake"
   "/usr/share/cmake-3.22/Modules/CMakeASMInformation.cmake"
   "/usr/share/cmake-3.22/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"

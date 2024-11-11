@@ -67,9 +67,8 @@ static void close_all_context()
 //------------------------------------------------------------------------------
 void example_mmf2_audio_only(void)
 {
-
 	// 1 Audio (AAC) -> RTSP (A)
-	// mmf2_example_a_init();
+	 mmf2_example_a_init();
 
 	// audio -> audio , audio loopback
 	// mmf2_example_audioloop_init();

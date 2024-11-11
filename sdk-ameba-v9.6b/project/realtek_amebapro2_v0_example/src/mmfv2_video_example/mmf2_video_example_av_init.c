@@ -22,7 +22,7 @@
 *****************************************************************************/
 
 #define V1_CHANNEL 0
-#define V1_BPS 2*1024*1024
+#define V1_BPS  2*1024*1024
 #define V1_RCMODE 2 // 1: CBR, 2: VBR
 #define USE_H265 0
 #if USE_H265
@@ -96,23 +96,43 @@ static rtsp2_params_t rtsp2_a_params = {
 	}
 };
 
+/*
+ VIDEO_VGA 
+   RTSP_WIDTH	640 
+   RTSP_HEIGHT	480
+
+ VIDEO_HD
+   RTSP_WIDTH	1280 
+   RTSP_HEIGHT	720 
+
+ VIDEO_FHD 
+   RTSP_WIDTH	1920 
+   RTSP_HEIGHT	1080
+*/
+
+
 void mmf2_video_example_av_init(void)
 {
 	atcmd_userctrl_init();
 
 	/*sensor capacity check & video parameter setting*/
-	video_v1_params.resolution = VIDEO_FHD;
-	video_v1_params.width = sensor_params[USE_SENSOR].sensor_width;
-	video_v1_params.height = sensor_params[USE_SENSOR].sensor_height;
+	video_v1_params.resolution = VIDEO_VGA; 
+	// video_v1_params.width = sensor_params[USE_SENSOR].sensor_width;
+	// video_v1_params.height = sensor_params[USE_SENSOR].sensor_height;
+	video_v1_params.width = 640; 
+	video_v1_params.height = 480;
+
 	video_v1_params.fps = sensor_params[USE_SENSOR].sensor_fps;
 	video_v1_params.gop = sensor_params[USE_SENSOR].sensor_fps;
-	/*rtsp parameter setting*/
+
+	/* rtsp parameter setting */
 	rtsp2_v1_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps;
 
 	int voe_heap_size = video_voe_presetting(1, video_v1_params.width, video_v1_params.height, V1_BPS, 0,
 						0, 0, 0, 0, 0,
 						0, 0, 0, 0, 0,
 						0, 0, 0);
+
 
 	printf("\r\n voe heap size = %d\r\n", voe_heap_size);
 

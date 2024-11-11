@@ -25,7 +25,7 @@
 #define V1_BPS 2*1024*1024
 #define V1_RCMODE 2 // 1: CBR, 2: VBR
 #define V2_CHANNEL 1
-#define V2_BPS 1024*1024
+#define V2_BPS 2*1024*1024
 #define V2_RCMODE 2 // 1: CBR, 2: VBR
 #define USE_H265 0
 #if USE_H265
@@ -59,11 +59,18 @@ static video_params_t video_v1_params = {
 	.use_static_addr = 1,
 };
 
+// static video_params_t video_v2_params = {
+// 	.stream_id = V2_CHANNEL,
+// 	.type = VIDEO_TYPE,
+// 	.bps = V2_BPS,
+// 	.rc_mode = V2_RCMODE,
+// 	.use_static_addr = 1
+// };
+
+
 static video_params_t video_v2_params = {
 	.stream_id = V2_CHANNEL,
-	.type = VIDEO_TYPE,
-	.bps = V2_BPS,
-	.rc_mode = V2_RCMODE,
+	.type = VIDEO_JPEG,
 	.use_static_addr = 1
 };
 
@@ -102,12 +109,22 @@ static rtsp2_params_t rtsp2_v1_params = {
 	}
 };
 
+// static rtsp2_params_t rtsp2_v2_params = {
+// 	.type = AVMEDIA_TYPE_VIDEO,
+// 	.u = {
+// 		.v = {
+// 			.codec_id = VIDEO_CODEC,
+// 			.bps      = V2_BPS
+// 		}
+// 	}
+// };
+
+
 static rtsp2_params_t rtsp2_v2_params = {
 	.type = AVMEDIA_TYPE_VIDEO,
 	.u = {
 		.v = {
-			.codec_id = VIDEO_CODEC,
-			.bps      = V2_BPS
+			.codec_id = AV_CODEC_ID_MJPEG,
 		}
 	}
 };
@@ -142,6 +159,191 @@ static void video_meta_cb2(void *parm)
 }
 #endif
 
+// void mmf2_video_example_av2_init(void)
+// {
+// 	atcmd_userctrl_init();
+
+// #if defined(ENABLE_META_INFO)
+// 	unsigned char uuid[16] = {0xc7, 0x98, 0x2c, 0x28, 0x0a, 0xfc, 0x49, 0xe6, 0xaa, 0xe4, 0x7f, 0x8f, 0x64, 0xee, 0x65, 0x01};
+// 	video_pre_init_params_t init_params;
+// 	memset(&init_params, 0x00, sizeof(video_pre_init_params_t));
+// 	init_params.meta_enable = 1;
+// 	init_params.meta_size = VIDEO_META_USER_SIZE;
+// 	memcpy(init_params.video_meta_uuid, uuid, VIDEO_META_UUID_SIZE);
+// 	video_pre_init_setup_parameters(&init_params);//It only setup one time.
+// 	video_v1_params.meta_enable = 1;
+// 	video_v2_params.meta_enable = 1;
+// 	for (int i = 0; i < 64; i++) {
+// 		meta_user_buf[i] = i;
+// 	}
+// #endif
+
+// 	/*sensor capacity check & video parameter setting*/
+// 	video_v1_params.resolution = VIDEO_FHD;
+// 	video_v1_params.width = sensor_params[USE_SENSOR].sensor_width;
+// 	video_v1_params.height = sensor_params[USE_SENSOR].sensor_height;
+// 	video_v1_params.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
+// 	video_v1_params.gop = sensor_params[USE_SENSOR].sensor_fps / 2;
+// 	video_v2_params.resolution = VIDEO_HD;
+// 	video_v2_params.width = V2_WIDTH;
+// 	video_v2_params.height = V2_HEIGHT;
+// 	video_v2_params.fps = sensor_params[USE_SENSOR].sensor_fps;
+// 	video_v2_params.gop = sensor_params[USE_SENSOR].sensor_fps;
+// 	/*rtsp parameter setting*/
+// 	rtsp2_v1_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
+// 	rtsp2_v2_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps;
+
+// 	int voe_heap_size = video_voe_presetting(1, video_v1_params.width, video_v1_params.height, V1_BPS, 0,
+// 						1, video_v2_params.width, video_v2_params.height, V2_BPS, 0,
+// 						0, 0, 0, 0, 0,
+// 						0, 0, 0);  
+
+// 	printf("\r\n voe heap size = %d\r\n", voe_heap_size);
+// 	if (voe_boot_fsc_status()) {
+// 		video_v1_params.fcs = 1;
+// 	}
+// 	video_v1_ctx = mm_module_open(&video_module);
+// 	if (video_v1_ctx) {
+// 		mm_module_ctrl(video_v1_ctx, CMD_VIDEO_SET_PARAMS, (int)&video_v1_params);
+// 		mm_module_ctrl(video_v1_ctx, MM_CMD_SET_QUEUE_LEN, video_v1_params.fps * 3);
+// 		mm_module_ctrl(video_v1_ctx, MM_CMD_INIT_QUEUE_ITEMS, MMQI_FLAG_DYNAMIC);
+// #if defined(ENABLE_META_INFO)
+// 		if (video_v1_params.meta_enable) {
+// 			mm_module_ctrl(video_v1_ctx, CMD_VIDEO_META_CB, (int)video_meta_cb);
+// 		}
+// #endif
+// 	} else {
+// 		rt_printf("video open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+
+
+// 	// ------ Channel 2--------------
+// 	video_v2_ctx = mm_module_open(&video_module);
+// 	if (video_v2_ctx) {
+// 		mm_module_ctrl(video_v2_ctx, CMD_VIDEO_SET_PARAMS, (int)&video_v2_params);
+// 		mm_module_ctrl(video_v2_ctx, MM_CMD_SET_QUEUE_LEN, video_v2_params.fps * 3);
+// 		mm_module_ctrl(video_v2_ctx, MM_CMD_INIT_QUEUE_ITEMS, MMQI_FLAG_DYNAMIC);
+// #if defined(ENABLE_META_INFO)
+// 		if (video_v2_params.meta_enable) {
+// 			mm_module_ctrl(video_v2_ctx, CMD_VIDEO_META_CB, (int)video_meta_cb2);
+// 		}
+// #endif
+// 	} else {
+// 		rt_printf("video open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+
+// 	//--------------Audio --------------
+// 	audio_ctx = mm_module_open(&audio_module);
+// 	if (audio_ctx) {
+// #if !USE_DEFAULT_AUDIO_SET
+// 		mm_module_ctrl(audio_ctx, CMD_AUDIO_SET_PARAMS, (int)&audio_params);
+// #endif
+// 		mm_module_ctrl(audio_ctx, MM_CMD_SET_QUEUE_LEN, 6);
+// 		mm_module_ctrl(audio_ctx, MM_CMD_INIT_QUEUE_ITEMS, MMQI_FLAG_STATIC);
+// 		mm_module_ctrl(audio_ctx, CMD_AUDIO_APPLY, 0);
+// 	} else {
+// 		rt_printf("audio open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+// 	aac_ctx = mm_module_open(&aac_module);
+// 	if (aac_ctx) {
+// 		mm_module_ctrl(aac_ctx, CMD_AAC_SET_PARAMS, (int)&aac_params);
+// 		mm_module_ctrl(aac_ctx, MM_CMD_SET_QUEUE_LEN, 16);
+// 		mm_module_ctrl(aac_ctx, MM_CMD_INIT_QUEUE_ITEMS, MMQI_FLAG_DYNAMIC);
+// 		mm_module_ctrl(aac_ctx, CMD_AAC_INIT_MEM_POOL, 0);
+// 		mm_module_ctrl(aac_ctx, CMD_AAC_APPLY, 0);
+// 	} else {
+// 		rt_printf("AAC open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+
+// 	//--------------RTSP---------------
+// 	rtsp2_v1_ctx = mm_module_open(&rtsp2_module);
+// 	if (rtsp2_v1_ctx) {
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SELECT_STREAM, 0);
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_v1_params);
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SET_APPLY, 0);
+
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SELECT_STREAM, 1);
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_a_params);
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SET_APPLY, 0);
+
+// 		mm_module_ctrl(rtsp2_v1_ctx, CMD_RTSP2_SET_STREAMMING, ON);
+// 	} else {
+// 		rt_printf("RTSP2 open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+
+// 	rtsp2_v2_ctx = mm_module_open(&rtsp2_module);
+// 	if (rtsp2_v2_ctx) {
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SELECT_STREAM, 0);
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_v2_params);
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_APPLY, 0);
+
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SELECT_STREAM, 1);
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_a_params);
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_APPLY, 0);
+
+// 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_STREAMMING, ON);
+// 	} else {
+// 		rt_printf("RTSP2 open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+
+// 	//--------------Link---------------------------
+// 	siso_audio_aac = siso_create();
+// 	if (siso_audio_aac) {
+// 		siso_ctrl(siso_audio_aac, MMIC_CMD_ADD_INPUT, (uint32_t)audio_ctx, 0);
+// 		siso_ctrl(siso_audio_aac, MMIC_CMD_ADD_OUTPUT, (uint32_t)aac_ctx, 0);
+// 		siso_ctrl(siso_audio_aac, MMIC_CMD_SET_STACKSIZE, 44 * 1024, 0);
+// 		siso_start(siso_audio_aac);
+// 	} else {
+// 		rt_printf("siso1 open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+// 	rt_printf("siso started\n\r");
+
+
+// 	mimo_2v_1a_rtsp = mimo_create();
+// 	if (mimo_2v_1a_rtsp) {
+// #if defined(configENABLE_TRUSTZONE) && (configENABLE_TRUSTZONE == 1)
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_SET_SECURE_CONTEXT, 1, 0);
+// #endif
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_ADD_INPUT0, (uint32_t)video_v1_ctx, 0);
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_ADD_INPUT1, (uint32_t)video_v2_ctx, 0);
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_ADD_INPUT2, (uint32_t)aac_ctx, 0);
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_ADD_OUTPUT0, (uint32_t)rtsp2_v1_ctx, MMIC_DEP_INPUT0 | MMIC_DEP_INPUT2);
+// 		mimo_ctrl(mimo_2v_1a_rtsp, MMIC_CMD_ADD_OUTPUT1, (uint32_t)rtsp2_v2_ctx, MMIC_DEP_INPUT1 | MMIC_DEP_INPUT2);
+// 		mimo_start(mimo_2v_1a_rtsp);
+// 	} else {
+// 		rt_printf("mimo open fail\n\r");
+// 		goto mmf2_video_exmaple_av2_fail;
+// 	}
+
+// 	mm_module_ctrl(video_v1_ctx, CMD_VIDEO_APPLY, V1_CHANNEL);
+// 	mm_module_ctrl(video_v2_ctx, CMD_VIDEO_APPLY, V2_CHANNEL);
+
+// 	rt_printf("mimo started\n\r");
+
+// 	return;
+// mmf2_video_exmaple_av2_fail:
+
+// 	return;
+// }
+
+
+
+
+
 void mmf2_video_example_av2_init(void)
 {
 	atcmd_userctrl_init();
@@ -162,24 +364,29 @@ void mmf2_video_example_av2_init(void)
 #endif
 
 	/*sensor capacity check & video parameter setting*/
-	video_v1_params.resolution = VIDEO_FHD;
-	video_v1_params.width = sensor_params[USE_SENSOR].sensor_width;
-	video_v1_params.height = sensor_params[USE_SENSOR].sensor_height;
-	video_v1_params.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
-	video_v1_params.gop = sensor_params[USE_SENSOR].sensor_fps / 2;
-	video_v2_params.resolution = VIDEO_HD;
-	video_v2_params.width = V2_WIDTH;
-	video_v2_params.height = V2_HEIGHT;
-	video_v2_params.fps = sensor_params[USE_SENSOR].sensor_fps;
-	video_v2_params.gop = sensor_params[USE_SENSOR].sensor_fps;
+	video_v1_params.resolution = VIDEO_VGA;
+	video_v1_params.width = 640;
+	video_v1_params.height = 480;
+	// video_v1_params.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
+	// video_v1_params.gop = sensor_params[USE_SENSOR].sensor_fps / 2;
+    video_v1_params.fps = sensor_params[USE_SENSOR].sensor_fps/2 ;
+	video_v1_params.gop = sensor_params[USE_SENSOR].sensor_fps/2 ;
+
+	video_v2_params.resolution = VIDEO_VGA;
+	video_v2_params.width = 640;
+	video_v2_params.height = 480;
+	video_v2_params.fps = 15;
+	video_v2_params.gop = 15;
+
 	/*rtsp parameter setting*/
-	rtsp2_v1_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
+    rtsp2_v1_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps / 2;
+	
 	rtsp2_v2_params.u.v.fps = sensor_params[USE_SENSOR].sensor_fps;
 
 	int voe_heap_size = video_voe_presetting(1, video_v1_params.width, video_v1_params.height, V1_BPS, 0,
 						1, video_v2_params.width, video_v2_params.height, V2_BPS, 0,
 						0, 0, 0, 0, 0,
-						0, 0, 0);
+						0, 0, 0);  
 
 	printf("\r\n voe heap size = %d\r\n", voe_heap_size);
 	if (voe_boot_fsc_status()) {
@@ -199,8 +406,6 @@ void mmf2_video_example_av2_init(void)
 		rt_printf("video open fail\n\r");
 		goto mmf2_video_exmaple_av2_fail;
 	}
-
-
 
 	// ------ Channel 2--------------
 	video_v2_ctx = mm_module_open(&video_module);
@@ -245,7 +450,6 @@ void mmf2_video_example_av2_init(void)
 		goto mmf2_video_exmaple_av2_fail;
 	}
 
-
 	//--------------RTSP---------------
 	rtsp2_v1_ctx = mm_module_open(&rtsp2_module);
 	if (rtsp2_v1_ctx) {
@@ -269,7 +473,9 @@ void mmf2_video_example_av2_init(void)
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SELECT_STREAM, 0);
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_v2_params);
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_APPLY, 0);
+	    mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_STREAMMING, ON);
 
+        //mjpeg audio --> rtsp2
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SELECT_STREAM, 1);
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_PARAMS, (int)&rtsp2_a_params);
 		mm_module_ctrl(rtsp2_v2_ctx, CMD_RTSP2_SET_APPLY, 0);
@@ -295,7 +501,6 @@ void mmf2_video_example_av2_init(void)
 
 	rt_printf("siso started\n\r");
 
-
 	mimo_2v_1a_rtsp = mimo_create();
 	if (mimo_2v_1a_rtsp) {
 #if defined(configENABLE_TRUSTZONE) && (configENABLE_TRUSTZONE == 1)
@@ -315,14 +520,18 @@ void mmf2_video_example_av2_init(void)
 	mm_module_ctrl(video_v1_ctx, CMD_VIDEO_APPLY, V1_CHANNEL);
 	mm_module_ctrl(video_v2_ctx, CMD_VIDEO_APPLY, V2_CHANNEL);
 
+    mm_module_ctrl(video_v2_ctx, CMD_VIDEO_SNAPSHOT, 2);
+    
 	rt_printf("mimo started\n\r");
-
 
 	return;
 mmf2_video_exmaple_av2_fail:
 
 	return;
 }
+
+
+
 
 static const char *example = "mmf2_video_example_av2";
 static void example_deinit(void)

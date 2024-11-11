@@ -59,7 +59,7 @@ static void example_mmf2_video_surport(void)
 	//mmf2_video_example_v2_init();
 
 	// CH3 Video -> JPEG -> RTSP
-	//mmf2_video_example_v3_init();
+	//mmf2_video_example_v3_init(); //jpeg串流ok
 
 	// CH1 Video -> H264/HEVC -> RTSP + SNAPSHOT
 	//mmf2_video_example_v1_shapshot_init();
@@ -68,10 +68,10 @@ static void example_mmf2_video_surport(void)
 	//mmf2_video_example_simo_init();
 
 	// 1 Video (H264/HEVC) 1 Audio -> RTSP
-	//mmf2_video_example_av_init();
+	//mmf2_video_example_av_init();  //音视频流
 
 	// 2 Video (H264/HEVC) 1 Audio -> 2 RTSP (V1+A, V2+A)
-	//mmf2_video_example_av2_init();
+	mmf2_video_example_av2_init();  //音视频双通道 已更改为   h264 + mjpeg
 
 	// 1 Video (H264/HEVC) 1 Audio -> 2 RTSP (V+A)
 	//mmf2_video_example_av21_init();
@@ -96,7 +96,7 @@ static void example_mmf2_video_surport(void)
 	// H264 -> RTSP (V2)
 	// AUDIO -> AAC  -> RTSP and mp4
 	// RTP   -> AAD  -> AUDIO
-	//mmf2_video_example_joint_test_rtsp_mp4_init();
+	// mmf2_video_example_joint_test_rtsp_mp4_init();
 
 	// H264 and 2way audio (G711, PCMU)
 	// H264 -> RTSP (V1)
@@ -131,7 +131,7 @@ static void example_mmf2_video_surport(void)
 
 	// H264 -> RTSP (V1)
 	// RGB  -> NN object detect (V4)
-	mmf2_video_example_vipnn_rtsp_init();
+	//mmf2_video_example_vipnn_rtsp_init();
 
 	// H264 -> RTSP (V1)
 	// RGB  -> NN face detect (V4) -> NN face recognition
@@ -230,7 +230,6 @@ void video_example_main(void *param)
 		if (hal_video_get_no_video_time() > 1000 * 30) {
 			printf("no video frame time > %d ms", hal_video_get_no_video_time());
 			//reopen video or system reset
-
 			sys_reset();
 		}
 #if 0	//get encode buffer info	

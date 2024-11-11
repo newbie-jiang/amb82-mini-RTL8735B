@@ -7,5 +7,5 @@
 
 void app_example(void)
 {
-	example_amazon_freertos();
+	example_amazon_freertos(); 
 }

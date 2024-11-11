@@ -50,9 +50,11 @@ void mmf2_video_example_v3_init(void)
 	atcmd_userctrl_init();
 
 	/*sensor capacity check & video parameter setting*/
-	video_v3_params.resolution = VIDEO_FHD;
-	video_v3_params.width = sensor_params[USE_SENSOR].sensor_width;
-	video_v3_params.height = sensor_params[USE_SENSOR].sensor_height;
+	video_v3_params.resolution = VIDEO_VGA;
+	// video_v3_params.width = sensor_params[USE_SENSOR].sensor_width;
+	// video_v3_params.height = sensor_params[USE_SENSOR].sensor_height;
+	video_v3_params.width = 640;
+	video_v3_params.height = 480;
 	video_v3_params.fps = V3_FPS;
 	video_v3_params.gop = V3_GOP;
 	/*rtsp parameter setting*/

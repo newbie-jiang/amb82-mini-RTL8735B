@@ -69,6 +69,7 @@ void main(void)
 	voe_t2ff_prealloc();
 
 	setup();
+	
 	ethernet_mii_init();// init ethernet driver
 	/* Execute application example */
 	app_example();

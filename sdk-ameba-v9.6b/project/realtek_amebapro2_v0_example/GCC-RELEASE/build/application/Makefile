@@ -1479,54 +1479,6 @@ home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_cl
 	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_client_ext.c.s
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_client_ext.c.s
 
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.c.s
-
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c.obj
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.obj
 
@@ -5775,246 +5727,6 @@ home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.c
 	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/outsrc.dir/build.make application/CMakeFiles/outsrc.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.c.s
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.c.s
 
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.c.s
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.obj
-
-# target to build an object file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.obj:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.obj
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.obj
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.i
-
-# target to preprocess a source file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.i:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.i
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.i
-
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.s
-
-# target to generate assembly for a file
-home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.s:
-	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.s
-.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c.s
-
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.c.obj
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.obj
 
@@ -10031,6 +9743,30 @@ home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c.
 	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c.s
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.c.s
 
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.c.s
+
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.c.obj
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.obj
 
@@ -10054,6 +9790,30 @@ home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.s
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.c.s:
 	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.c.s
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.c.s
 
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.c.obj
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.obj
@@ -10390,6 +10150,942 @@ home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_exampl
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c.s:
 	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c.s
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.c.s
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.obj
+
+# target to build an object file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.obj:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.obj
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.obj
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.i: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.i
+
+# target to preprocess a source file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.i:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.i
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.i
+
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.s: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.s
+
+# target to generate assembly for a file
+home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.s:
+	cd /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/GCC-RELEASE/build && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.s
+.PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.c.s
 
 home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.obj: home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c.obj
 .PHONY : home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.obj
@@ -10999,12 +11695,6 @@ help:
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_client_ext.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_client_ext.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/ssl_client/ssl_client_ext.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/app_example.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/example/vl53l8cx/example_vl53l8cx.s"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.s"
@@ -11536,36 +12226,6 @@ help:
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/os_dep/timer_service.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/53l8a1_ranging_sensor.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/app_tof_pin_conf.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/custom_bus.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_api.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_motion_indicator.s"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.obj"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.i"
-	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.s"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/soc/8735b/app/shell/cmd_shell.s"
@@ -12068,9 +12728,15 @@ help:
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/eip/eip_auto_wdr.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_example.s"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/isp_osd_lite.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/video/osd2/osd_render.s"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/wifi/api/wifi_conf.s"
@@ -12113,6 +12779,123 @@ help:
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/main.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/app_example.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_doorbell_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_2way_audio_pcmu_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_array_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_audio_vipnn_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av21_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av2_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_av_rtsp_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_bayercap_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_demuxer_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_face_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_fd_lm_mfn_sim_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_array_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_h264_pcmu_array_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_all_nn_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_vipnn_rtsp_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_jpeg_external_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_nn_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_simo_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_day_night_change_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_param_change_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_rate_control_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_snapshot_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v2_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v3_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_facedet_sync_snapshot_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_vipnn_rtsp_init.s"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.obj"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.i"
+	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/video_example_media_framework.s"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.obj"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.i"
 	@echo "... home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.s"

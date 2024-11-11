@@ -8,6 +8,9 @@
         "example_amazon_freertos.h": "c",
         "example_audio_helix_mp3.h": "c",
         "app_tof.h": "c",
-        "custom_bus.h": "c"
+        "custom_bus.h": "c",
+        "sample_h265.h": "c",
+        "module_rtsp2.h": "c",
+        "log_service.h": "c"
     }
 }
