@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:147:13:_ameba_mutex_leave	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:136:12:_ameba_mutex_try	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:129:13:_ameba_mutex_enter	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:76:12:_ameba_mutex_end	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:112:13:_ameba_mutex_free	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:65:12:_ameba_mutex_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:86:23:_ameba_mutex_alloc	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:16:6:sqlite3MemoryBarrier	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_mutex.c:177:30:sqlite3DefaultMutex	0	static

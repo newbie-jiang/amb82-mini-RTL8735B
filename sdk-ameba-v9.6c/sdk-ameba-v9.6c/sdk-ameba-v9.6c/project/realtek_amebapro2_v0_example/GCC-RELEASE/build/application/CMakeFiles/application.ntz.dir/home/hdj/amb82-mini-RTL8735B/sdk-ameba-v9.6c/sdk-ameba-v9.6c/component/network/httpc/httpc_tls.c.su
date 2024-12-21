@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:72:12:_verify_func	1032	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:106:12:_random_func	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:90:14:_calloc_func	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:8:5:httpc_setsockopt_rcvtimeo	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:115:7:httpc_tls_new	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:322:6:httpc_tls_free	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:349:5:httpc_tls_handshake	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:382:6:httpc_tls_close	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:393:5:httpc_tls_read	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:404:5:httpc_tls_write	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:415:5:httpc_base64_encode	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/httpc/httpc_tls.c:439:5:httpc_tls_set_ciphersuites	8	static

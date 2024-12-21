@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:442:5:demuxer_handle	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:519:7:demuxer_new_item	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:18:6:demuxer_audio_thread	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:524:7:demuxer_del_item	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:319:5:demuxer_control	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:447:7:demuxer_destroy	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:472:7:demuxer_create	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:102:6:find_gop_last_frame	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_demuxer.c:131:6:demuxer_video_thread	48	static

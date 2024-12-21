@@ -1,0 +1,6 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:76:1:lwip_htons	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:90:1:lwip_htonl	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:105:1:lwip_strnstr	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:128:1:lwip_stricmp	12	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:163:1:lwip_strnicmp	20	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/def.c:199:1:lwip_itoa	16	static

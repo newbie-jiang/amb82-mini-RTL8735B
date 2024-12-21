@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:271:12:mp4_end_cb	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:265:12:mp4_stop_cb	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:278:12:callback	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:255:13:mp4_stop_record_callback	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:984:13:fMD	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:957:13:fUC	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:359:5:get_oldest_record	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:429:6:sd_card_full_process	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:507:13:md_process	136	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:474:6:sqlite3_init_create_video_database	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:499:6:print_sqlite_db	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:586:6:mmf2_video_example_md_mp4_init	1248	static

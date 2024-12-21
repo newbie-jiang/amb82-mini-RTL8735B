@@ -1,0 +1,16 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:62:6:privacy_change_state	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:142:17:privacy_handle_resolv_list_int	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:251:17:privacy_handle_resolv_list	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:299:13:privacy_set_addr_resolution	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:304:13:privacy_read_peer_resolv_addr	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:320:13:privacy_read_local_resolv_addr	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:336:6:privacy_manage_mode	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:341:13:privacy_set_peer_mode	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:362:13:privacy_set_gen_priv_addr_interval	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:374:6:privacy_modify_resolving_list	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:77:6:privacy_add_device	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:118:6:privacy_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:265:6:privacy_handle_bond_modify_msg	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:455:6:privacy_handle_le_privacy_resolution_status_info	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:469:6:privacy_handle_le_privacy_modify_resolv_list_rsp	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/privacy/privacy_mgnt.c:513:14:privacy_msg_callback	24	static

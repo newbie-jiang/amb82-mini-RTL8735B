@@ -1,0 +1,4 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_rtsp2.c:20:5:rtsp2_handle	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_rtsp2.c:175:5:rtsp2_control	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_rtsp2.c:374:7:rtsp2_destroy	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_rtsp2.c:408:7:rtsp2_create	24	static

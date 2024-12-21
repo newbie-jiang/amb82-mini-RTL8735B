@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:9:6:roi_delta_qp_init	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:26:6:roi_delta_qp_deinit	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:34:6:roi_delta_qp_start	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:55:6:roi_delta_qp_reset_qptable	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:43:6:roi_delta_qp_stop	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/roi_delta_qp/roi_delta_qp.c:68:6:roi_delta_qp_set_param	24	static

@@ -1,0 +1,3 @@
+./uartfwburn.exe -p COM8 -f flash_ntz.nn.bin -b 2000000 -U
+./uartfwburn.exe -p COM8 -f flash_ntz.bin -b 2000000 -U
+COM 口需依据实际更改

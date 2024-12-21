@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:33:9:IsCycQueueEmpty	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:47:9:IsCycQueueFull	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:61:10:CycQueueSize	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:75:10:CycQueueRemainSize	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:132:6:UpdateQueueRead	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:148:6:MallocCycQueue	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:90:6:CycQueueWrite	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/common/src/cycle_queue.c:167:6:FreeCycQueue	8	static

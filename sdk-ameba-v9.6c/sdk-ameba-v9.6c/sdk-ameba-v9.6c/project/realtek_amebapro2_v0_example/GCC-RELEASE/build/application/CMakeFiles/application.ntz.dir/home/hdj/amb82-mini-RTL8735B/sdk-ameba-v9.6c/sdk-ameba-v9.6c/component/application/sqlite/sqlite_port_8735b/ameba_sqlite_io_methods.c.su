@@ -1,0 +1,14 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:366:12:_ameba_io_sector_size	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:373:12:_ameba_io_device_characteristics	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:392:12:_ameba_io_fetch	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:411:12:_ameba_io_unfetch	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:192:12:_ameba_io_lock	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:134:12:_ameba_io_check_reserved_lock	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:229:12:_ameba_io_unlock	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:94:12:_ameba_io_file_size	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:74:12:_ameba_io_sync	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:57:12:_ameba_io_truncate	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:35:12:_ameba_io_write	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:317:12:_ameba_io_file_ctrl	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:13:12:_ameba_io_read	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/application/sqlite/sqlite_port_8735b/ameba_sqlite_io_methods.c:262:12:_ameba_io_close	8	static

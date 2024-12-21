@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/power_mode_api.c:59:6:DeepSleep	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/power_mode_api.c:84:6:SleepCG	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/power_mode_api.c:113:6:Standby	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/power_mode_api.c:137:5:Get_wake_reason	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/power_mode_api.c:147:6:Aon_timer_clear	8	static

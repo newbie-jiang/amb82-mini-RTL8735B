@@ -1,0 +1,7 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:42:14:nanodet_plus_m_get_network_filename	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:47:6:nanodet_set_network_init_info	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:294:13:nanodet_release	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:308:13:nanodet_set_nms_thresh	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:302:13:nanodet_set_confidence_thresh	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:54:12:nanodet_preprocess	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_nanodet.c:233:12:nanodet_postprocess	304	dynamic,bounded

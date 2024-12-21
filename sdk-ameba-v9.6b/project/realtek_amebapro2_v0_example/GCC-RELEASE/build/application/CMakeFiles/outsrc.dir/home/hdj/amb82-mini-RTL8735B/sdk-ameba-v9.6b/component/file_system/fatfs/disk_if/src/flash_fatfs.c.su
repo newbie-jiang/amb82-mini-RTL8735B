@@ -1,7 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:42:9:FLASH_disk_status	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:136:9:FLASH_disk_ioctl	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:49:9:FLASH_disk_initialize	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:92:9:FLASH_disk_read	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:109:9:FLASH_disk_write	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:60:9:FLASH_disk_deinitialize	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/flash_fatfs.c:31:9:interpret_flash_result	0	static

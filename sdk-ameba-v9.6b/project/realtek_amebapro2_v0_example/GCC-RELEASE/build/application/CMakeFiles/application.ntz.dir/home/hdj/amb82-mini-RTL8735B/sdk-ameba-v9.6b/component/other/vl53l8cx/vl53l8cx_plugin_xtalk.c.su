@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:20:16:_vl53l8cx_poll_for_answer.constprop	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:288:9:vl53l8cx_get_caldata_xtalk	40	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:317:9:vl53l8cx_set_caldata_xtalk	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:330:9:vl53l8cx_get_xtalk_margin	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:345:9:vl53l8cx_set_xtalk_margin	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_xtalk.c:146:9:vl53l8cx_calibrate_xtalk	176	static

@@ -1,0 +1,6 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:70:12:ssl_ticket_gen_key	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:42:6:mbedtls_ssl_ticket_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:129:5:mbedtls_ssl_ticket_setup	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:200:5:mbedtls_ssl_ticket_write	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:299:5:mbedtls_ssl_ticket_parse	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_ticket.c:394:6:mbedtls_ssl_ticket_free	8	static

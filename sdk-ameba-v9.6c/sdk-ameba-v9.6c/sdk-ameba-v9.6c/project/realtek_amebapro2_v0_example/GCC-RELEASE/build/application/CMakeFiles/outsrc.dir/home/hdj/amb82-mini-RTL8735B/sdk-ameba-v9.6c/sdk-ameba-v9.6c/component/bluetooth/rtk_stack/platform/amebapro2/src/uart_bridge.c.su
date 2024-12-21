@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/uart_bridge.c:26:6:bt_uart_bridge_putc	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/uart_bridge.c:37:9:bt_uart_bridge_getc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/uart_bridge.c:226:6:bt_uart_bridge_set	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/uart_bridge.c:232:6:bt_uart_bridge_close	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/uart_bridge.c:238:6:bt_uart_bridge_open	8	static

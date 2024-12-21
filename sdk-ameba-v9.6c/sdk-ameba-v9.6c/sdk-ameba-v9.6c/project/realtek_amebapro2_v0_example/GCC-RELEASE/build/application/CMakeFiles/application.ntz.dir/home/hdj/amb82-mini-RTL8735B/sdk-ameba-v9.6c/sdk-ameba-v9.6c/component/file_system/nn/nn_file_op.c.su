@@ -1,0 +1,8 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:43:13:nn_keylen_valid	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:228:13:nn_aes_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:279:12:is_vfs_path	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:291:6:nn_f_close	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:333:5:nn_f_seek	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:348:5:nn_f_tell	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:308:5:nn_f_read	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/nn/nn_file_op.c:240:7:nn_f_open	16	static

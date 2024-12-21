@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:6:14:arm_dsp_malloc	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:16:13:arm_dsp_free	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:56:9:create_mel_fbank	88	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:23:20:mel_spec_create	40	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:106:6:mel_spec_delete	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/test_model/mel_spectrogram.c:124:6:mel_compute	24	static

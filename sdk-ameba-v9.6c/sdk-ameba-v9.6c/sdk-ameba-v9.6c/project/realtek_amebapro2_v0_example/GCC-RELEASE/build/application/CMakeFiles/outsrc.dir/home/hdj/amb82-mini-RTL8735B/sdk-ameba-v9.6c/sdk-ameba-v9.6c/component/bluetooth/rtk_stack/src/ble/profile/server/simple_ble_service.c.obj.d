@@ -1,0 +1,21 @@
+application/CMakeFiles/outsrc.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/platform/trace_app.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/platform/trace.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/profile/server/simple_ble_service.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/profile/profile_server.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/inc/platform_opts_bt.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/platform/amebapro2/lib/upperstack_config.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/bt_types.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/profile/gatt.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap_le.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/bt_types.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap_chann.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap_callback_le.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap_storage_le.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap_le_types.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/profile/profile_server_def.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/profile/server/simple_ble_config.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/bluetooth/gap/gap.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/bluetooth/rtk_stack/inc/app/app_common_flags.h

@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:180:13:mp4_stop_record_callback	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:187:13:md_process	96	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:534:13:fMD	80	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:507:13:fUC	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_md_mp4_init.c:234:6:mmf2_video_example_md_mp4_init	1224	static

@@ -1,3 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/mbed/targets/hal/rtl8735b/trng_api.c:47:6:trng_init	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/mbed/targets/hal/rtl8735b/trng_api.c:51:6:trng_deinit	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/mbed/targets/hal/rtl8735b/trng_api.c:56:5:trng_get_rand	16	static

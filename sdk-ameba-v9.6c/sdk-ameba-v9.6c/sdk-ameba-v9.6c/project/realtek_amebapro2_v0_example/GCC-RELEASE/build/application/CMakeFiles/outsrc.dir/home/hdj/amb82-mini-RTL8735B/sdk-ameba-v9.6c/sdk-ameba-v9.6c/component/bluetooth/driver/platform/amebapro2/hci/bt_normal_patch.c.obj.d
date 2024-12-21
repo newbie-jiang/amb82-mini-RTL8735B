@@ -1,0 +1,2 @@
+application/CMakeFiles/outsrc.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/bt_normal_patch.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/bt_normal_patch.c

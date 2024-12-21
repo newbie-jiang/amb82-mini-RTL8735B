@@ -1,0 +1,8 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:74:10:crc32	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:114:5:write_fast_connect_data_to_flash	888	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:94:5:wifi_check_fast_connect_data	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:214:5:wifi_do_fast_connect	320	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:616:5:check_is_the_same_ap	424	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:642:5:Erase_Fastconnect_data	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:659:6:wifi_fast_connect_enable	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/wifi/wifi_fast_connect/wifi_fast_connect.c:689:6:wifi_fast_connect_load_fast_dhcp	16	static

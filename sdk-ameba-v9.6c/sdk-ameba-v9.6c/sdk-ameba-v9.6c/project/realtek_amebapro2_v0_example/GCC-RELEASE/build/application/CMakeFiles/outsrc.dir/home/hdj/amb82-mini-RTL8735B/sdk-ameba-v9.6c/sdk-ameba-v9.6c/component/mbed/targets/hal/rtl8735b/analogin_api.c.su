@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:69:6:analogin_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:104:6:analogin_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:120:6:analogin_pin_deinit	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:140:7:analogin_read	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:160:10:analogin_read_u16	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:177:6:analogin_set_user_callback	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:194:6:analogin_clear_user_callback	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:212:9:analogin_read_u16_dma	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/analogin_api.c:231:10:analogin_read_intl_r	8	static

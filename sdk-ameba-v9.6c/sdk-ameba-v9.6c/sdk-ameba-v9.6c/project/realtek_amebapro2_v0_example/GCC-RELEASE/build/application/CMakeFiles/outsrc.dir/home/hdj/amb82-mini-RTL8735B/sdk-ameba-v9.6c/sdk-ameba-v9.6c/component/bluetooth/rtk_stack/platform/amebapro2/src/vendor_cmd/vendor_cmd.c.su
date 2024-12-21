@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/vendor_cmd/vendor_cmd.c:66:6:app_gap_vendor_callback	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/vendor_cmd/vendor_cmd.c:10:13:le_vendor_one_shot_adv	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/vendor_cmd/vendor_cmd.c:24:13:le_adv_set_tx_power	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/vendor_cmd/vendor_cmd.c:39:13:le_set_conn_tx_power	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/platform/amebapro2/src/vendor_cmd/vendor_cmd.c:88:6:vendor_cmd_init	8	static

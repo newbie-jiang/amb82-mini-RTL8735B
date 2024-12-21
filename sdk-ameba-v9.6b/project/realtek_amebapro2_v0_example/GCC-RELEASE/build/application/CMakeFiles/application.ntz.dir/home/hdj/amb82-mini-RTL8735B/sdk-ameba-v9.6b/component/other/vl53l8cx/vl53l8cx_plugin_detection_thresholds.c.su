@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:15:9:vl53l8cx_get_detection_thresholds_enable	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:28:9:vl53l8cx_set_detection_thresholds_enable	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:59:9:vl53l8cx_get_detection_thresholds	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:107:9:vl53l8cx_set_detection_thresholds	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:162:9:vl53l8cx_get_detection_thresholds_auto_stop	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/vl53l8cx_plugin_detection_thresholds.c:175:9:vl53l8cx_set_detection_thresholds_auto_stop	32	static

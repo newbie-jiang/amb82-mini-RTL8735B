@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:288:6:simple_write_post_callback	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:396:6:simp_ble_service_cccd_update_cb	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:255:15:simp_ble_service_attr_read_cb	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:305:14:simp_ble_service_attr_write_cb	56	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:215:6:simp_ble_service_set_parameter	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:357:6:simp_ble_service_send_v3_notify	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:378:6:simp_ble_service_send_v4_indicate	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/src/ble/profile/server/simple_ble_service.c:466:13:simp_ble_service_add_service	24	static

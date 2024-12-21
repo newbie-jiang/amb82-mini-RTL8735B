@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_uvcd.c:20:6:uvcd_change_format_resolution	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_uvcd.c:27:7:uvcd_create	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_uvcd.c:98:5:uvcd_control	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_uvcd.c:116:7:uvcd_destroy	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/media/mmfv2/module_uvcd.c:65:5:uvcd_handle	16	static

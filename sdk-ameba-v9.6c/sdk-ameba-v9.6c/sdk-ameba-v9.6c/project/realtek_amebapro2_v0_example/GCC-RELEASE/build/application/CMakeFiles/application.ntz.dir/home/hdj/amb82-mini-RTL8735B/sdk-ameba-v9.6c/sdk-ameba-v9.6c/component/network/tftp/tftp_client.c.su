@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/tftp/tftp_client.c:9:5:req_packet	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/tftp/tftp_client.c:43:6:ip_port	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/tftp/tftp_client.c:49:5:tftp_client_send	176	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/tftp/tftp_client.c:190:5:tftp_client_get	184	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/network/tftp/tftp_client.c:334:5:tftp_client_start	328	static

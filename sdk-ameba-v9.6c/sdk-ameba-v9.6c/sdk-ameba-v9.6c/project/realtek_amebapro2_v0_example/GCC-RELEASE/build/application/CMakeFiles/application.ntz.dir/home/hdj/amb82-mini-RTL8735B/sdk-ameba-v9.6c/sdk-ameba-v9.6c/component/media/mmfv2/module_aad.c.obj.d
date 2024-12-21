@@ -1,0 +1,25 @@
+application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_aad.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_aad.c \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/mmf2_module.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/diag.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/stdio_port/stdio_port.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/utilities/include/utility.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/mmf2_mediatime_8735b.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_aad.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libAACdec/include/aacdecoder_lib.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/machine_type.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/FDK_audio.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/machine_type.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/genericStds.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/syslib_channelMapDescr.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/genericStds.h

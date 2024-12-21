@@ -1,0 +1,3 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c:225:13:fUC	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c:94:6:convert_2d_mask_to_pmask_bitmap	12	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_v1_mask_init.c:105:6:mmf2_video_example_v1_mask_init	576	static

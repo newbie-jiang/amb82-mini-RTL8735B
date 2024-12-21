@@ -1,3 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTConnectServer.c:30:5:MQTTPacket_checkVersion	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTConnectServer.c:52:5:MQTTDeserialize_connect	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/network/mqtt/MQTTPacket/MQTTConnectServer.c:123:5:MQTTSerialize_connack	24	static

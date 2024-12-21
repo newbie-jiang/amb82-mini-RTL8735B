@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:42:6:vRestoreContextOfFirstTask	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:113:12:xIsPrivileged	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:130:6:vRaisePrivilege	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:143:6:vResetPrivilege	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:156:6:vStartFirstTask	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:178:10:ulSetInterruptMask	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:193:6:vClearInterruptMask	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:206:6:PendSV_Handler	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c:305:6:SVC_Handler	0	static

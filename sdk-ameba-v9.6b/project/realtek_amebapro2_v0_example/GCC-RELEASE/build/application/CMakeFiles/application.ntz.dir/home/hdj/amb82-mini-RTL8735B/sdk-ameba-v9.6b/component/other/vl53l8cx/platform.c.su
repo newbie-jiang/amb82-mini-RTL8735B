@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:15:9:RdByte	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:23:9:WrByte	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:31:9:WrMulti	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:40:9:RdMulti	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:49:6:SwapBuffer	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/other/vl53l8cx/platform.c:68:9:WaitMs	16	static

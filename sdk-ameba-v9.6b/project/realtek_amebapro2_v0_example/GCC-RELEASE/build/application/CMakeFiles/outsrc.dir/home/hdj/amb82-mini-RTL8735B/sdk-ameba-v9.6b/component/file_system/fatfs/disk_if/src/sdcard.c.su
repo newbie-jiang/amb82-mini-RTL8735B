@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:22:9:interpret_sd_status	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:53:9:SD_disk_status	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:60:9:SD_disk_initialize	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:67:9:SD_disk_deinitialize	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:40:9:interpret_sd_result	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:75:9:SD_disk_read	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:92:9:SD_disk_write	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/file_system/fatfs/disk_if/src/sdcard.c:110:9:SD_disk_ioctl	8	static

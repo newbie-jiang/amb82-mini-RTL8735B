@@ -1,0 +1,24 @@
+application/CMakeFiles/outsrc.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/portable/MemMang/heap_4_2.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/portable/MemMang/heap_4_2.c \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/FreeRTOS.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/inc/FreeRTOSConfig.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/projdefs.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/portable.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/deprecated_definitions.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33/non_secure/portmacro.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/mpu_wrappers.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/task.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/list.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/diag.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/app/stdio_port/stdio_port.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/utilities/include/utility.h

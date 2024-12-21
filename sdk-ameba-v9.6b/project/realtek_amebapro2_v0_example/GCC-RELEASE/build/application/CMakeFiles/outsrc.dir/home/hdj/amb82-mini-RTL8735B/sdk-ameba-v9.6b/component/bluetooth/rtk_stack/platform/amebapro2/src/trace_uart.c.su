@@ -1,3 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/amebapro2/src/trace_uart.c:24:6:trace_uart_init	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/amebapro2/src/trace_uart.c:46:6:trace_uart_deinit	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6b/component/bluetooth/rtk_stack/platform/amebapro2/src/trace_uart.c:61:6:trace_uart_tx	8	static

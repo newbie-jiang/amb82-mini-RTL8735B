@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:96:6:timer_wrapper	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:24:6:init_timer_wrapper	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:31:6:deinit_timer_wrapper	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:129:6:init_timer	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:178:6:mod_timer	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:235:5:timer_pending	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:244:7:cancel_timer_ex	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:279:7:del_timer_sync	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:315:6:rtw_init_timer	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:326:6:rtw_set_timer	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:331:4:rtw_cancel_timer	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/os_dep/timer_service.c:337:6:rtw_del_timer	8	static
