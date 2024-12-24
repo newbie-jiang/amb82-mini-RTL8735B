@@ -1,0 +1,11 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:64:10:lwip_getip_intf	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:151:6:bt_config_app_set_adv_data	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:176:6:bt_config_app_handle_dev_state_evt	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:218:6:bt_config_app_handle_conn_state_evt	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:296:6:bt_config_app_handle_authen_state_evt	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:329:6:bt_config_app_handle_conn_mtu_info_evt	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:342:6:bt_config_app_handle_conn_param_update_evt	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:380:6:bt_config_app_handle_gap_msg	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:96:6:bt_config_app_handle_io_msg	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:472:14:bt_config_app_gap_callback	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_peripheral_app.c:515:14:bt_config_app_profile_callback	16	static

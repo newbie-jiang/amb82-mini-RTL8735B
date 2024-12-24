@@ -1,0 +1,8 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:97:6:bt_config_stack_config_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:173:6:bt_config_app_le_profile_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:185:6:bt_config_task_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:192:6:bt_config_task_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:205:9:get_bt_config_state	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:210:6:set_bt_config_state	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:216:5:bt_config_app_init	112	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_main.c:273:6:bt_config_app_deinit	16	static

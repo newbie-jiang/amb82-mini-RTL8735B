@@ -1,0 +1,82 @@
+{
+	"PROFILE":	["KEYPRIVATE"],
+	"KEYPRIVATE":	{
+		"rotkey":	"ROTKEY",
+		"huk":	"HUK",
+		"sec":	"SEC",
+		"sjtag":	"SJTAG",
+		"nsjtag":	"NSJTAG",
+		"img":	["PARTAB", "BOOT", "FW"]
+	},
+	"ROTKEY":	{
+		"vrf_alg":	2,
+		"key1_private":	"1406535f5d7fd70e5820839bc9b99a516f1a772c441c674e59578d44ee5e601c",
+		"key1_pkhash":	"bd8998ecfe45e42997391a119b22489b32e54779419e9fca625fd1c5c5272bdd",
+		"key2_private":	"c5dc17281be408067f409483c021539b9d8043482883fa882eeed4e790196c80",
+		"key2_pkhash":	"eb84d888b76f59e1557caf95e5761b96692971f8c0a30fb6e77f1b22b1b9ee68"
+	},
+	"HUK":	{
+		"key1":	"14f7a19ea5c26c25d4aa7a05c44ec4b64b9047de8b538513e14ea535b58414c9",
+		"key2":	"7cb6672178d3474c7ec151420f15f85aa63f383193be45740ceaa9c16fbd8aeb"
+	},
+	"SEC":	{
+		"key1":	"73f20cebc5533843148985239f7d7d45bdb6765074bbc480a66d41152acb009e",
+		"key2":	"bd0c898360c1c6744b4c98eac9152f86cba5d63f619abf0707001c32cc1cd089"
+	},
+	"SJTAG":	{
+		"fixed":	{
+			"key1":	"28590c881bd3fd661f9550e8aa7f6f762445b585e0758ce775a81941c4e9cbed",
+			"key2":	"43d7755eaa72c4c90714b2b2932128b766dd3d4652c92ec87247093631d42374"
+		},
+		"nonfixed":	{
+			"key":	"679c0816a1f01c165685beee1fc53f71e08206f80d832412979d82f7644ec23d"
+		}
+	},
+	"NSJTAG":	{
+		"fixed":	{
+			"key1":	"15e3cd37c84c04808f0d2ac00b2ebb3bd2d36544d0fdccbb389a6a3a22879c37",
+			"key2":	"6a696f33b573b34580dd058c0cc0c7de932c236329ef1e6189889bab1037e37a"
+		},
+		"nonfixed":	{
+			"key":	"f3a3b66859937618132c34a92642748f4db459af404bd62254cf5d864d053fe6"
+		}
+	},
+	"IMG":	{
+		"PARTAB":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"private":	"39ae9bbe14288df8c86312c08b24815313d103df2fad0d93dfbb3919a6cdc88c"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key":	"c6ee4ab0261dd8aae4bbc7908eca3e52268c40e86ab3710c6f6fda1b36f021ba"
+			}
+		},
+		"BOOT":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"private":	"faab6cd8d23ddc0d5f6f8c54ab01a31026e66a9f199a833321cc9cc3c796be50"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key":	"7aecdf1704f8a4ab131191f2490f5036f0ec5ce7623529d59bbd4b17ae55dacb"
+			}
+		},
+		"FW":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"private":	"7b6eb0d01e6afece240efb35f688b6d951640cfbcdee8e6381f3011f65ff68d1"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key":	"9d81d29e72bcbcdd89f0ef34eead041131ff45fed0a18de633f964f9e30c50fa"
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_bt.c:1933:6:fATBV	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_bt.c:73:6:set_bt_cmd_type	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_bt.c:78:9:bt_command_type	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_bt.c:1088:6:fATBB	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_bt.c:2051:6:at_bt_init	8	static
