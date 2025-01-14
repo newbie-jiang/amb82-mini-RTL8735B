@@ -1,0 +1,14 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/include/hal_uart.h:168:6:hal_uart_wputc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/include/hal_uart.h:274:21:hal_uart_rgetc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:282:6:led_thread	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:221:6:_wps_thread	192	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:45:6:app_ftl_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:98:6:log_uart_port_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:129:13:app_example	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:131:6:setup	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:152:6:set_initial_tick_count	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:266:6:wps_test	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:349:6:wps_key_thread	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:335:6:gpio_test	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:378:6:wps_key_test	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/main.c:446:6:main	8	static

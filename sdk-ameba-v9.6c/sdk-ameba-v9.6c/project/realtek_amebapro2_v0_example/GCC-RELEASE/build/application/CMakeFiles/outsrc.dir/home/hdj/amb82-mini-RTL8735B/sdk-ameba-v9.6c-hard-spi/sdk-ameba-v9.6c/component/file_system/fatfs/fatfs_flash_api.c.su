@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:19:5:fatfs_flash_close	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:35:5:fatfs_flash_init	168	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:101:5:fatfs_flash_get_param	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:112:5:fatfs_flash_format	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:136:5:usb_flash_init	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:141:5:usb_flash_deinit	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:147:5:usb_flash_getcapacity	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:152:5:usb_flash_readblocks	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/fatfs/fatfs_flash_api.c:157:5:usb_flash_writeblocks	8	static

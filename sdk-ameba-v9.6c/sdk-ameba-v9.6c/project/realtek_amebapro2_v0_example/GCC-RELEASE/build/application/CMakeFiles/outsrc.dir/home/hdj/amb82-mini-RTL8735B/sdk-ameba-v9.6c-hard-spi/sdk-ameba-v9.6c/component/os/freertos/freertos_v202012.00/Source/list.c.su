@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/list.c:48:6:vListInitialise	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/list.c:73:6:vListInitialiseItem	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/list.c:85:6:vListInsertEnd	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/list.c:115:6:vListInsert	12	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/list.c:183:13:uxListRemove	0	static

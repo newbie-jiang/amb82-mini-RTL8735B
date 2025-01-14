@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:179:13:gcm_mult	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:57:6:mbedtls_gcm_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:125:5:mbedtls_gcm_setkey	88	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:221:5:mbedtls_gcm_starts	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:310:5:mbedtls_gcm_update	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:373:5:mbedtls_gcm_finish	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:414:5:mbedtls_gcm_crypt_and_tag	352	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:494:5:mbedtls_gcm_auth_decrypt	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/gcm_alt.c:537:6:mbedtls_gcm_free	8	static

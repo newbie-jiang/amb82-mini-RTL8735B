@@ -1,0 +1,15 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:56:12:sendPacket	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:137:12:readPacket	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:84:6:MQTTClientInit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:207:5:deliverMessage	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:236:5:keepalive	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:262:5:cycle	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:352:5:MQTTYield	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:370:5:waitfor	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:384:5:MQTTConnect	120	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:435:5:MQTTSubscribe	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:494:5:MQTTUnsubscribe	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:538:5:MQTTPublish	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:596:5:MQTTDisconnect	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:616:6:MQTTSetStatus	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/mqtt/MQTTClient/MQTTClient.c:625:5:MQTTDataHandle	120	static

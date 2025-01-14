@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/include/hal_cache.h:155:22:dcache_clean_invalidate_by_addr.constprop	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:25:14:video_boot_malloc	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:42:6:video_boot_set_private_mask	88	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:99:5:video_boot_buf_calc	20	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:174:5:video_boot_open	80	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:415:12:user_boot_config_init	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:420:11:user_disable_fcs	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:434:5:video_btldr_process	1696	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/video/driver/RTL8735B/video_boot.c:525:5:video_btldr_fcs_terminated	352	static

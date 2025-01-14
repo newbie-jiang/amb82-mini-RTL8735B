@@ -1,7 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:284:13:my_debug	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:331:13:ssl_client	1104	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:299:12:my_random	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:308:14:my_calloc	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:531:6:start_ssl_client	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:541:6:do_ssl_connect	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client.c:559:6:cmd_ssl_client	24	static

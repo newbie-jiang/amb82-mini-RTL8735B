@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:55:9:clock	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:64:5:clock_getcpuclockid	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:80:5:clock_getres	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:97:5:__clock_gettime	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:124:5:clock_gettime	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:178:5:clock_nanosleep	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:251:18:clock_set_rtc_time	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:255:5:clock_settime	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:277:6:setTimezone	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:281:5:getTimezone	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:328:5:nanosleep	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:383:8:time	24	static

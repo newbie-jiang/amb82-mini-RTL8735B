@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:42:6:rltk_wlan_set_netif_info	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:67:5:rltk_wlan_send	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:127:6:rltk_wlan_recv	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:150:5:netif_is_valid_IP	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:164:16:netif_get_hwaddr	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:186:6:netif_rx	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:207:16:rltk_wlan_get_ip	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:217:16:rltk_wlan_get_gw	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/wifi/driver/src/osdep/lwip_intf.c:228:16:rltk_wlan_get_gwmask	8	static

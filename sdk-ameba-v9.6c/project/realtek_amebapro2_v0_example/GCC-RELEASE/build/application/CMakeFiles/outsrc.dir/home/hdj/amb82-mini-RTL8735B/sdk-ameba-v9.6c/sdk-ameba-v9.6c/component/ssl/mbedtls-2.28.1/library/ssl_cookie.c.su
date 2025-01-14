@@ -1,7 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:126:12:ssl_cookie_hmac	64	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:70:6:mbedtls_ssl_cookie_init	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:83:6:mbedtls_ssl_cookie_set_timeout	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:88:6:mbedtls_ssl_cookie_free	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:99:5:mbedtls_ssl_cookie_setup	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:152:5:mbedtls_ssl_cookie_write	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/ssl_cookie.c:194:5:mbedtls_ssl_cookie_check	64	static

@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:7:7:u8_to_f	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:12:7:s8_to_f	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:17:7:s16_to_f	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:22:7:bf16_to_f	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:27:7:q2f	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:58:9:f_to_u8	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:63:8:f_to_s8	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:68:9:f_to_s16	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.c:73:8:f_to_bf16	0	static

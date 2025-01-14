@@ -1,0 +1,10 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:50:21:scan_result_handler	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:174:13:wifi_join_status_callback	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:317:6:BC_status_monitor	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:90:11:BC_req_band_hdl	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:106:5:BC_req_scan_hdl	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:194:5:BC_req_connect_hdl	264	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:283:6:BC_req_status_hdl	240	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:361:6:bt_config_create_secure_context	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:368:6:bt_config_wifi_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:381:6:bt_config_wifi_deinit	16	static

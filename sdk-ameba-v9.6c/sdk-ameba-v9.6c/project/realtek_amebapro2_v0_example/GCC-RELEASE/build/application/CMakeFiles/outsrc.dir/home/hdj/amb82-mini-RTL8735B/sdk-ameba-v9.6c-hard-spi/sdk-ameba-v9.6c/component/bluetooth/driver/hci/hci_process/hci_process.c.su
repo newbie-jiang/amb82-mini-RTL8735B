@@ -1,0 +1,9 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:221:16:hci_process_hci_reset	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:56:16:hci_process_read_local_ver	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:197:16:hci_process_set_cut_ver	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:171:16:hci_process_write_iqk	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:128:16:hci_process_download_patch	288	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:103:16:hci_process_update_baudrate	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:80:16:hci_process_read_rom_ver	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:24:16:hci_process_start_iqk	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_process/hci_process.c:265:9:hci_process	16	static

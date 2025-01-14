@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:37:5:hal_rsa_set_key_size	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:48:5:hal_rsa_set_byte_swap	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:59:5:hal_rsa_set_endian	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:70:6:hal_rsa_set_operands	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:81:14:hal_rsa_check_status	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:91:14:hal_rsa_compute	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:101:5:hal_rsa_config	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:113:5:hal_rsa_process	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_rsa.c:123:6:hal_rsa_clock_init	8	static

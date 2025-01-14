@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "module_audio.h": "c",
+        "queue.h": "c",
+        "lcd_init.h": "c",
+        "spi_api.h": "c"
+    }
+}

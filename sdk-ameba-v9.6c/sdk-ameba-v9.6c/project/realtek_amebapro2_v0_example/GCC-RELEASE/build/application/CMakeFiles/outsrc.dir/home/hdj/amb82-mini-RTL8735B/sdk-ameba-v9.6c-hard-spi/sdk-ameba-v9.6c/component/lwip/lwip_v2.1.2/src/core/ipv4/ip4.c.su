@@ -1,0 +1,10 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:390:1:ip4_input_accept	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:117:1:ip4_set_default_multicast_netif	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:152:1:ip4_route	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:442:1:ip4_input	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:861:1:ip4_output_if_opt_src	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:823:1:ip4_output_if_opt	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:808:1:ip4_output_if	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:848:1:ip4_output_if_src	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:1049:1:ip4_output	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/ip4.c:1156:10:ip4_getipid	0	static

@@ -1,0 +1,14 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:432:12:net_would_block	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:183:6:mbedtls_net_init	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:191:5:mbedtls_net_connect	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:285:5:mbedtls_net_bind	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:467:5:mbedtls_net_accept	88	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:617:5:mbedtls_net_set_block	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:628:5:mbedtls_net_set_nonblock	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:643:5:mbedtls_net_poll	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:709:6:mbedtls_net_usleep	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:729:5:mbedtls_net_recv	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:767:5:mbedtls_net_recv_timeout	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:813:5:mbedtls_net_send	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:851:6:mbedtls_net_close	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/net_sockets.c:864:6:mbedtls_net_free	8	static

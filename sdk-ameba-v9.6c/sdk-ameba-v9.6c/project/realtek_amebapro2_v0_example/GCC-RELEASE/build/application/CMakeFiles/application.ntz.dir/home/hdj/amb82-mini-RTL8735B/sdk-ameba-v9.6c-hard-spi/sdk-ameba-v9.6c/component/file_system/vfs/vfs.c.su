@@ -1,0 +1,11 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:14:16:vfs_get_dir	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:25:6:vfs_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:37:6:vfs_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:50:5:vfs_status	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:55:5:find_vfs_number	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:85:5:find_inf_number	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:107:5:vfs_register	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:124:5:vfs_scan_vfs	12	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:140:5:vfs_user_register	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:182:5:vfs_user_unregister	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/vfs/vfs.c:206:5:vfs_user_format	16	static

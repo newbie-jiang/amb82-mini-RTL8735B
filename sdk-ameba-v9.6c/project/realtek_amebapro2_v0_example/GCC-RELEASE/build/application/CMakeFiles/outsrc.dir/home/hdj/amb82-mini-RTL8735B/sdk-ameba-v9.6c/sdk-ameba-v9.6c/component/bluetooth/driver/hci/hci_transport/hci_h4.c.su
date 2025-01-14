@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:213:13:h4_set_recv	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:218:13:h4_set_get_buf	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:62:16:h4_recv_ind	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:271:16:h4_free	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:259:16:h4_close	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:240:16:h4_open	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:71:17:h4_recv_data	32	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:98:13:h4_rx_thread	304	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/bluetooth/driver/hci/hci_transport/hci_h4.c:223:17:h4_send	32	static

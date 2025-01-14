@@ -1,0 +1,79 @@
+{
+	"PROFILE":	["KEYPUBLIC"],
+	"KEYPUBLIC":	{
+		"rotkey":	"ROTKEY",
+		"huk":	"HUK",
+		"sec":	"SEC",
+		"sjtag":	"SJTAG",
+		"nsjtag":	"NSJTAG",
+		"img":	["PARTAB", "BOOT", "FW"]
+	},
+	"ROTKEY":	{
+		"vrf_alg":	2,
+		"rotkey_idx":	1,
+		"key1_public":	"b10155ae817265f2b9fc892fa85bb912027e72fea0a02ce9a9f037acd1dd7970",
+		"key2_public":	"6c54b8ac4d799a1d185629e8ee43bd9d3336467e85021543f8256c3a84e342bb"
+	},
+	"HUK":	{
+		"key_idx":	1
+	},
+	"SEC":	{
+		"key_idx":	1
+	},
+	"SJTAG":	{
+		"nonfixed":	{
+			"key_nonce":	"5b27c8f45b99ad525e38dfd943bbc03cda39df2829340b59b08b34b339f02094",
+			"key_salt":	"17e888728135c4df6da4b8b05f78ed39b1cc61da016d34b1f86864315984c570"
+		}
+	},
+	"NSJTAG":	{
+		"nonfixed":	{
+			"key_nonce":	"ef5ace68732d2c0f2c9ba8b8eeef9e87bfded24b29c7fce4982b930a48a16937",
+			"key_salt":	"fb379f6e65cc7e9167264a5616e8ddd5c6af20ef761cd40f4767198f0882c703"
+		}
+	},
+	"IMG":	{
+		"PARTAB":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"public":	"1f286ea2eb0bbe76bf4e311e22a75487332f1d9778514d5c4fcd19b78abe9b4b",
+					"pkhash":	"57b15b346fc52b3997d8efb15b88db9a7fdc83db5bb386d8af801bd330fd8d4d"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key_nonce":	"b966721e32f0b09a16faf02ce2cd01a87c2197f23d6b0184d21a14da9cdbde56",
+				"key_salt":	"4150747440240e561efe8300cb84a847a64039e3ab3b687e557c58f257364898"
+			}
+		},
+		"BOOT":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"public":	"e2bbd5860bcc94892ed6115fa672abfdb36874770f8e1b3315879f5edfdb3200",
+					"pkhash":	"d9e90d3ef5bf5b88f6036f13d67dc6ac6bb82c29971be108cd903b913626074b"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key_nonce":	"86bc0cc6e11a1dff18a000e324a82acae864ae949f1612f4926ae6e9a12e8127",
+				"key_salt":	"eb8eeecca80bcbc1abcba4cf74cf9a5c3348f0d25e02c6f06dadd90edb5a35c6"
+			}
+		},
+		"FW":	{
+			"verify":	{
+				"vrf_alg":	2,
+				"asymm":	{
+					"public":	"161862e9f7d59bc6df927a944b2d9ec6c4a0f6fd3d868baa9ac3af94e6af55cc",
+					"pkhash":	"00959ba3a6c25e5edea27ab20ce8b25d815ae424d66fc60386cd34c7d7c3903b"
+				}
+			},
+			"hash":	{
+				"hsh_alg":	2,
+				"key_nonce":	"e82392912e5e52d929f6a99dc543faf88beacae9ed91d95a3eb268190c9de0f5",
+				"key_salt":	"c17286efd0d8c9face729794b5918c407c572969e802c326b42b3fc0c81fb589"
+			}
+		}
+	}
+}

@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:5:6:vAssertCalled	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:13:6:vApplicationStackOverflowHook	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:23:6:vApplicationTickHook	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:28:6:vApplicationMallocFailedHook	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:41:6:osUsageFaultHook	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:46:6:vApplicationGetIdleTaskMemory	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:69:6:vApplicationGetTimerTaskMemory	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_cb.c:92:6:vApplicationDaemonTaskStartupHook	0	static

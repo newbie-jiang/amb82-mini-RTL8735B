@@ -1,0 +1,15 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:37:6:read32	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:43:6:mseek	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:72:11:sim_fopen	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:105:6:sim_ftell	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:110:5:sim_fclose	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:121:8:sim_fread	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:133:8:sim_fwrite	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:138:5:sim_ferror	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:143:5:sim_getc	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:148:5:sim_fgetc	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:153:7:sim_fgets	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:189:5:sim_fscanf	284	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:201:5:sim_fprintf	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:206:5:sim_feof	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/svm/sim_io/sim_io.c:211:5:sim_fseek	0	static

@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:44:5:opusd_handle	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:131:12:opusdmodule_apply	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:163:5:opusd_control	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:255:7:opusd_new_item	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:199:7:opusd_destroy	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:261:7:opusd_del_item	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:220:7:opusd_create	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_opusd.c:23:6:opusd_bypass_parser	16	static

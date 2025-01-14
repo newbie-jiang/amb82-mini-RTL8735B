@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:60:6:rtc_init	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:70:6:rtc_free	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:78:5:rtc_isenabled	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:83:8:rtc_read	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:113:6:rtc_write	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:151:5:rtc_set_alarm	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:167:6:rtc_set_alarm_time	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:191:6:rtc_disable_alarm	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/rtc_api.c:204:5:rtc_set_comp	8	static

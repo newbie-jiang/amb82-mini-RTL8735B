@@ -1,0 +1,12 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:315:5:rtp_handle	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:54:6:rtp_cache_handler	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:376:7:rtp_del_item	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:370:7:rtp_new_item	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:272:5:rtp_control	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:25:5:rtp_wait_wifi_connection	184	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:107:5:rtp_cache_deinit	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:320:7:rtp_destroy	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:342:7:rtp_create	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:146:5:rtp_cache_init	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:185:5:rtp_client_start	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/media/mmfv2/module_rtp.c:255:6:rtp_client_task	16	static

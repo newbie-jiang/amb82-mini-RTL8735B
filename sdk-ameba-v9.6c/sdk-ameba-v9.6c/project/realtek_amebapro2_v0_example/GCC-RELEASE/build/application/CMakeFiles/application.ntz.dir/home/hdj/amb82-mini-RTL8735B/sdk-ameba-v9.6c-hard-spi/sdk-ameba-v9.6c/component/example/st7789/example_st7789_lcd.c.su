@@ -1,0 +1,3 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/example/st7789/example_st7789_lcd.c:19:13:prvST7789_lcd_Task	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/example/st7789/example_st7789_lcd.c:42:6:vStart_ST7789_Tasks	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/example/st7789/example_st7789_lcd.c:55:6:example_st7789_lcd	8	static

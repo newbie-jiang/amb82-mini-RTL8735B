@@ -1,0 +1,3 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-dsp/source/TransformFunctions/arm_rfft_fast_f32.c:31:6:stage_rfft_f32	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-dsp/source/TransformFunctions/arm_rfft_fast_f32.c:116:6:merge_rfft_f32	12	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/cmsis/cmsis-dsp/source/TransformFunctions/arm_rfft_fast_f32.c:286:6:arm_rfft_fast_f32	24	static

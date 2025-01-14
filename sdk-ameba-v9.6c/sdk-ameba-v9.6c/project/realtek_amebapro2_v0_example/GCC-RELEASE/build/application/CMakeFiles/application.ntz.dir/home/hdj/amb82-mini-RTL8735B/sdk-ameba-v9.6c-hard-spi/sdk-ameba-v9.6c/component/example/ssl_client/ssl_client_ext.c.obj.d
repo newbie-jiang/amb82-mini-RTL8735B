@@ -1,0 +1,29 @@
+application/CMakeFiles/application.ntz.dir/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client_ext.c.obj: \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/example/ssl_client/ssl_client_ext.c \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/FreeRTOS.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/inc/FreeRTOSConfig.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/projdefs.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/portable.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/deprecated_definitions.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/GCC-RELEASE/application/../../../../component/os/freertos/freertos_v202012.00/Source/portable/GCC/ARM_CM33/non_secure/portmacro.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/os/freertos/freertos_v202012.00/Source/include/mpu_wrappers.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/config.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/mbedtls_config.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/check_config.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/platform.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/ssl.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/bignum.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/ecp.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/ssl_ciphersuites.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/pk.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/md.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/platform_util.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/rsa.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/ecdsa.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/cipher.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/x509_crt.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/x509.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/asn1.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/x509_crl.h \
+ /home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/include/mbedtls/ecdh.h

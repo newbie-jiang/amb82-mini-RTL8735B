@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_unistd.c:37:10:sleep	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_unistd.c:46:5:usleep	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_unistd.c:65:7:strerror_r	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_unistd.c:79:6:bzero	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_unistd.c:84:5:prctl	0	static

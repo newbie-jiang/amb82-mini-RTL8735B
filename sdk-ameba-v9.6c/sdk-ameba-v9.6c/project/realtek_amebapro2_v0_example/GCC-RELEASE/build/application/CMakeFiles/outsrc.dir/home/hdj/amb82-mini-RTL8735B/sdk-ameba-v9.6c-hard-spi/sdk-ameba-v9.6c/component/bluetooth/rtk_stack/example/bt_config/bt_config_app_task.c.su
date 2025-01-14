@@ -1,0 +1,4 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_task.c:74:6:bt_config_app_main_task	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_task.c:56:6:bt_config_send_msg	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_task.c:102:6:bt_config_app_task_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/rtk_stack/example/bt_config/bt_config_app_task.c:113:6:bt_config_app_task_deinit	16	static

@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:30:10:telnetd_read_buffer	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:56:10:telnetd_write_buffer	40	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:83:5:iac_handling	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:111:10:iac_data	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:243:6:telnetd_init	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:257:6:fRCON	80	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:252:6:telnetd_deinit	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:293:6:at_telnetd_init	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/misc/driver/telnetd/telnetd.c:120:6:telnetd_handler	96	static

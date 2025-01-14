@@ -1,4 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_landmark_sim.c:28:7:lmsim_get_network_filename	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_landmark_sim.c:33:13:lmsim_input_setup	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_landmark_sim.c:125:12:lmsim_postprocess	12	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/test_model/model_landmark_sim.c:92:12:lmsim_preprocess	48	static

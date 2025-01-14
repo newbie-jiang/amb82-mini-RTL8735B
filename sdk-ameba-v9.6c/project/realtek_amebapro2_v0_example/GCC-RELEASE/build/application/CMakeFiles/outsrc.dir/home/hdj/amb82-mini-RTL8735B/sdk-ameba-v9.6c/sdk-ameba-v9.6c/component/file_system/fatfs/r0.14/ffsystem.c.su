@@ -1,6 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:16:7:ff_memalloc	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:28:6:ff_memfree	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:45:5:ff_cre_syncobj	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:55:5:ff_req_grant	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:61:6:ff_rel_grant	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/file_system/fatfs/r0.14/ffsystem.c:66:5:ff_del_syncobj	8	static

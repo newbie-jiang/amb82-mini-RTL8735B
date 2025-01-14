@@ -1,0 +1,6 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:95:6:_us_ticker_irq_handler	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:101:6:us_ticker_init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:111:10:us_ticker_read	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:116:6:us_ticker_set_interrupt	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:136:6:us_ticker_disable_interrupt	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/us_ticker.c:141:6:us_ticker_clear_interrupt	0	static

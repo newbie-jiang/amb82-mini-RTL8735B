@@ -1,7 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:111:12:pk_write_ec_pubkey	168	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:139:12:pk_write_ec_param.isra	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:176:5:mbedtls_pk_write_pubkey	56	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:225:5:mbedtls_pk_write_pubkey_der	72	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:313:5:mbedtls_pk_write_key_der	136	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:556:5:mbedtls_pk_write_pubkey_pem	2128	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/pkwrite.c:581:5:mbedtls_pk_write_key_pem	5728	static

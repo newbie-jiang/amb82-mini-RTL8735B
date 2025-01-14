@@ -1,0 +1,16 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:14:6:LCD_Fill	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:33:6:LCD_DrawPoint	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:47:6:LCD_DrawLine	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:90:6:LCD_DrawRectangle	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:106:6:Draw_Circle	64	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:164:6:LCD_ShowChinese12x12	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:222:6:LCD_ShowChinese16x16	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:280:6:LCD_ShowChinese24x24	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:337:6:LCD_ShowChinese32x32	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:139:6:LCD_ShowChinese	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:395:6:LCD_ShowChar	80	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:450:6:LCD_ShowString	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:466:5:mypow	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:484:6:LCD_ShowIntNum	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:516:6:LCD_ShowFloatNum1	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd.c:544:6:LCD_ShowPicture	32	static

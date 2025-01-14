@@ -1,0 +1,8 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:29:6:HAL_Delay	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:35:6:LCD_GPIO_Init	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:86:6:LCD_Writ_Bus	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:113:6:LCD_WR_DATA8	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:129:6:LCD_WR_DATA	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:150:6:LCD_WR_REG	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:170:6:LCD_Address_Set	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/other/st7789v/lcd_init.c:325:6:LCD_Init	8	static

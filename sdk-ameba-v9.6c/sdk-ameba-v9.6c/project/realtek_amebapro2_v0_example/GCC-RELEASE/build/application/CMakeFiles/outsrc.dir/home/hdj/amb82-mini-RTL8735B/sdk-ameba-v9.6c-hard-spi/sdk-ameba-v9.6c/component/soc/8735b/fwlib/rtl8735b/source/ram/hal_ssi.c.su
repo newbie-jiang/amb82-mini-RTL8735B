@@ -1,0 +1,13 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/include/hal_gdma.h:365:30:hal_gdma_chnl_init.isra	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:61:14:hal_ssi_pin_ctl	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:123:14:hal_ssi_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:148:6:hal_spi_format	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:184:6:hal_ssi_toggle_between_frame	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:212:6:hal_ssi_callback_hook	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:264:14:hal_ssi_tx_gdma_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:319:14:hal_ssi_rx_gdma_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:375:14:hal_ssi_tx_gdma_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:402:14:hal_ssi_rx_gdma_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:234:14:hal_ssi_deinit	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:433:14:hal_ssi_dma_send	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_ssi.c:480:14:hal_ssi_dma_recv	24	static

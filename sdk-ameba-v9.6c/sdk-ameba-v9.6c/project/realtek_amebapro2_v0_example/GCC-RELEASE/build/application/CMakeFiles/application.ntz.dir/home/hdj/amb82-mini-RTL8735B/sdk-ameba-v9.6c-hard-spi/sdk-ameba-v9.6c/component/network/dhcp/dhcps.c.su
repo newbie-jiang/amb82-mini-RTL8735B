@@ -1,0 +1,13 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:53:13:mark_ip_in_table	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:480:13:dhcps_initialize_message	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:379:15:add_offer_options	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:989:13:dnss_receive_udp_packet_handler	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:204:16:check_client_direct_request_ip.constprop	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:265:6:dump_client_table	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:678:9:dhcps_handle_state_machine_change	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:879:13:dhcps_receive_udp_packet_handler	120	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:965:6:dhcps_set_addr_pool	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:1057:6:dns_server_init	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:1092:6:dns_server_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:1107:6:dhcps_init	32	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/dhcp/dhcps.c:1229:6:dhcps_deinit	8	static

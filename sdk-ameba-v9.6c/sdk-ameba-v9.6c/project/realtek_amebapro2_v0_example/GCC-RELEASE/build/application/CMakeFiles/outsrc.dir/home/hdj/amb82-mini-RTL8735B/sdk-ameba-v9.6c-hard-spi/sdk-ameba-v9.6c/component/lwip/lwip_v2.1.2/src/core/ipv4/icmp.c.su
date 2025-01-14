@@ -1,0 +1,4 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/icmp.c:360:1:icmp_send_response	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/icmp.c:88:1:icmp_input	56	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/icmp.c:328:1:icmp_dest_unreach	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/lwip/lwip_v2.1.2/src/core/ipv4/icmp.c:343:1:icmp_time_exceeded	8	static

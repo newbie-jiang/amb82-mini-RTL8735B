@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/framework/sensor_service.c:19:5:sensor_external_set_gray_mode	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/framework/sensor_service.c:56:6:ss_cmd	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/framework/sensor_service.c:89:6:autoir_get_param	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/framework/sensor_service.c:149:6:sensor_thread	88	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/framework/sensor_service.c:277:6:init_sensor_service	16	static

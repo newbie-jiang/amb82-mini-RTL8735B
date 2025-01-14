@@ -1,0 +1,14 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:188:6:hal_comp_write	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:94:6:hal_comp_init	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:123:6:hal_comp_deinit	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:138:6:hal_comp_auto_switch	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:153:6:hal_comp_sw_trigger	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:170:6:hal_comp_ext_timer	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:215:5:hal_comp_read	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:245:6:hal_comp_set_vref	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:282:5:hal_comp_read_intr	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:49:6:COMP_IRQHandler	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:294:6:hal_comp_set_itemlist	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:319:6:hal_comp_set_intr_ctrl	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:396:6:hal_comp_reg_irq	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_comp.c:423:6:hal_comp_unreg_irq	8	static

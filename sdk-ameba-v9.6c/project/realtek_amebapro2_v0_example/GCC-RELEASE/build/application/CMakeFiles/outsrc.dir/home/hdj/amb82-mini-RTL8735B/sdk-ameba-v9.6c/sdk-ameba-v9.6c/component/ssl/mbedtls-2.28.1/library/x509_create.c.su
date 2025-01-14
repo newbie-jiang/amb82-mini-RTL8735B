@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/x509_create.c:123:5:mbedtls_x509_string_to_names	304	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/x509_create.c:208:5:mbedtls_x509_set_extension	24	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/x509_create.c:269:5:mbedtls_x509_write_names	40	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/x509_create.c:289:5:mbedtls_x509_write_sig	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/ssl/mbedtls-2.28.1/library/x509_create.c:358:5:mbedtls_x509_write_extensions	32	static

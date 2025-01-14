@@ -1,0 +1,14 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:81:16:amebapro2_uart_set_rx_ind	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:92:24:amebapro2_uart_rx_to_write_space	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:64:6:amebapro2_uart_bridge_to_hci	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:131:17:amebapro2_uart_send	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:272:16:amebapro2_uart_free	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:196:16:amebapro2_uart_open	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:164:13:amebapro2_uart_send_done	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:56:6:amebapro2_uart_bridge_open	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:74:16:amebapro2_uart_set_bdrate	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:256:16:amebapro2_uart_close	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:171:17:amebapro2_uart_read	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:51:12:bt_uart_bridge_putc	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:97:13:amebapro2_uart_irq	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/bluetooth/driver/platform/amebapro2/hci/hci_uart.c:69:6:amebapro2_uart_hci_to_bridge	8	static

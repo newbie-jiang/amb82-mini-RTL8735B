@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:147:17:mov_file_tell	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:142:12:mov_file_seek	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:137:12:mov_file_write	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:129:12:mov_file_read	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:163:5:fmp4_control	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:214:7:fmp4_destroy	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:239:7:fmp4_create	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:30:5:fmp4_handle	152	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_fmp4.c:152:28:mov_file_buffer	0	static

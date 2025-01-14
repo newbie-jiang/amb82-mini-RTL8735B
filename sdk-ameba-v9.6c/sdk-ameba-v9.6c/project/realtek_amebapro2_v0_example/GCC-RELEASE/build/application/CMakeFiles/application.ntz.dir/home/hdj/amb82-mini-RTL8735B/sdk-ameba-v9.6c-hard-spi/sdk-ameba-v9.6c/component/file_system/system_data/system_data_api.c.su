@@ -1,0 +1,5 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/system_data/system_data_api.c:408:5:sys_write_wlan_data_to_flash	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/system_data/system_data_api.c:426:5:sys_write_bt_data_to_flash	48	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/system_data/system_data_api.c:443:5:sys_read_wlan_data_from_flash	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/system_data/system_data_api.c:460:5:sys_read_bt_data_from_flash	24	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/file_system/system_data/system_data_api.c:477:5:sys_erase_system_data	8	static

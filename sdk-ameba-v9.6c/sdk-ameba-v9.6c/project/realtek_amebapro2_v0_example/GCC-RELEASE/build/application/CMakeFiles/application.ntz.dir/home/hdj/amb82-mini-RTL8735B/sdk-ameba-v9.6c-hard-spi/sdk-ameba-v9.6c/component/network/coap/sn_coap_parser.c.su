@@ -1,0 +1,7 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:236:17:sn_coap_parser_options_parse_uint	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:575:15:sn_coap_parser_options_parse_multiple_options	40	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:52:16:sn_coap_parser_init_message	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:67:16:sn_coap_parser_alloc_message	8	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:82:25:sn_coap_parser_alloc_options	16	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:114:16:sn_coap_parser	72	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/network/coap/sn_coap_parser.c:152:6:sn_coap_parser_release_allocated_coap_msg_mem	16	static

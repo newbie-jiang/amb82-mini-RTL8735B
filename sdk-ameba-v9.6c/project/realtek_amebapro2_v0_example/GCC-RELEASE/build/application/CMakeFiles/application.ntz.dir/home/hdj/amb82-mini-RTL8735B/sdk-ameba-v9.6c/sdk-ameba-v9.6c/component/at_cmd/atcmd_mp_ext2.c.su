@@ -1,5 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_mp_ext2.c:117:12:mp_ext2_ant	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_mp_ext2.c:99:12:mp_ext2_gnt_bt	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_mp_ext2.c:71:12:mp_ext2_bt_power	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_mp_ext2.c:42:12:mp_ext2_uart_bridge	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/at_cmd/atcmd_mp_ext2.c:145:6:fATM2	104	static

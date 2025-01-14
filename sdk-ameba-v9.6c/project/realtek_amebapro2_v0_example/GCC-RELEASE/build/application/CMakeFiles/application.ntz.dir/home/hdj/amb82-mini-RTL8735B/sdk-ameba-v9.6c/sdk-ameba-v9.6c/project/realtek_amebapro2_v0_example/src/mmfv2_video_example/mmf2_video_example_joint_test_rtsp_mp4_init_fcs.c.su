@@ -1,9 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:498:5:fcs_snapshot_cb	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:490:6:fcs_info	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:448:28:str_to_value	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:505:6:fcs_avsync.part.0	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:1104:13:fUC	48	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:381:6:voe_fcs_change_parameters	64	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:457:6:fcs_change	120	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:505:6:fcs_avsync	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/project/realtek_amebapro2_v0_example/src/mmfv2_video_example/mmf2_video_example_joint_test_rtsp_mp4_init_fcs.c:666:6:mmf2_video_example_joint_test_rtsp_mp4_init_fcs	112	static

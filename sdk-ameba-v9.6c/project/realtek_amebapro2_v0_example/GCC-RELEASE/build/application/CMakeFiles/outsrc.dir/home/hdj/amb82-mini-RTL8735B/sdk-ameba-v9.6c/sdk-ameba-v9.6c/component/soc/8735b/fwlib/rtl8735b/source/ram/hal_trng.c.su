@@ -1,3 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_trng.c:56:14:hal_trng_init	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_trng.c:87:14:hal_trng_deinit	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/soc/8735b/fwlib/rtl8735b/source/ram/hal_trng.c:119:5:hal_trng_get_rand	16	static

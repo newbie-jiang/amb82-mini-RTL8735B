@@ -1,0 +1,4 @@
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/pinmap_common.c:27:13:pinmap_pinout	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/pinmap_common.c:47:17:pinmap_merge	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/pinmap_common.c:67:17:pinmap_find_peripheral	0	static
+/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c-hard-spi/sdk-ameba-v9.6c/component/mbed/targets/hal/rtl8735b/pinmap_common.c:78:17:pinmap_peripheral	8	static

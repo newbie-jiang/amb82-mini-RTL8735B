@@ -1,8 +1,0 @@
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:109:14:queue_new_item	0	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:116:14:queue_del_item	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:28:12:queue_handle	336	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:141:14:queue_create	16	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:15:13:queue_free.part.0	328	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:15:13:queue_free	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:73:12:queue_control	8	static
-/home/hdj/amb82-mini-RTL8735B/sdk-ameba-v9.6c/sdk-ameba-v9.6c/component/media/mmfv2/module_queue.c:125:14:queue_destroy	8	static
